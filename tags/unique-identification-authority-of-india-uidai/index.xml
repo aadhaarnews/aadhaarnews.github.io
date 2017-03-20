@@ -8,6 +8,133 @@
     <atom:link href="http://aadhaarcardnews.in/tags/unique-identification-authority-of-india-uidai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Hacker can access your information via a UPI-based app</title>
+      <link>http://aadhaarcardnews.in/startup-identified-291-ways-hacker-can-access-information-via-upi-based-app/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/startup-identified-291-ways-hacker-can-access-information-via-upi-based-app/</guid>
+      <description>&lt;p&gt;As digitisation picks up steam with Indians expected to transact Rs 4 crore digitally every day this year, privacy of their data has become a paramount concern. The government is caught between encouraging digitisation and ensuring secure platforms. This is where startups like Appknox come in.&lt;/p&gt;
+
+&lt;p&gt;Specialising in mobile apps security, Appknox recently identified 291 critical vulnerabilities (181 were accorded the status of high ctitical vulnerabilities) in Unified Payments Interface (UPI) based mobile applications developed by banks and other fintech companies. These vulnerabilities had the potential of exposing a user’s entire bank details to the eyes of any hacker.&lt;/p&gt;
+
+&lt;p&gt;“There were issues where we could bypass the entire security gamut and get access to user’s bank account details and even download those details easily. We found hackers can easily manipulate these loopholes to misuse the data,” says Appknox cofounder and CEO, Harshit Agarwal.&lt;/p&gt;
+
+&lt;p&gt;The team at Appknox, driven by Agarwal and cofounders Subho Halder and Prateek Panda was hired by NPCI in July 2016 and has been scanning UPI-based apps since November. These apps, developed and launched by banks and other fintech companies, have already seen heavy downloads and have lakhs of users transacting online.
+The team found 181 high, 83 medium and 27 low critical vulnerabilities in the 35 plus apps evaluated by it. The National Payments Corporation of India (NPCI) then advised the banks to quickly work on the suggestions provided by Appknox in order to negate these threats.&lt;/p&gt;
+
+&lt;p&gt;Among other threats, the team was particularly concerned about basic security steps which the hackers at Appknox were easily able to contravene. The login password step was easily bypassed by the team in a number of UPI-based apps which could lead any hacker directly into a user’s account and access that user’s information.&lt;/p&gt;
+
+&lt;p&gt;Majority of apps depend on OTP (One Time Password) system to provide an extra layer of security to its users. The team shares it was able to easily brute force its way to login into a user’s account.
+Given these apps were developed by banks which are considered the safest mode financial platforms, the team was surprised at the ease with which it was able to hack into the apps.&lt;/p&gt;
+
+&lt;p&gt;“These banks have internal audits and we expected their apps to be pretty secure. Banks are the most important sector in fintech sector and have to be pretty ahead of the curve of security. Thus, we were surprised at how easily we could find loopholes in these apps. Whatever these banks are doing is not enough for mobile app security,” said Agarwal.
+While banks are still the most secure way of transferring money digitally when it comes to platforms like NEFT however, mobile apps, shares Agarwal, are a different ball game altogether.&lt;/p&gt;
+
+&lt;p&gt;“Mobiles can be hacked in very different ways and the internal team at these banking institutions is not that great with mobile apps. The whole security landscape is very different when it comes to mobiles,” says Agarwal.&lt;/p&gt;
+
+&lt;p&gt;A worrying statement indeed when the financial transactions are increasingly moving from websites to mobile apps with the proliferation of e-wallets and other payments systems.
+Several mobile apps have sprung in the last couple of years providing users with ease of transacting online however, to prevent this ease from metamorphosing into a security disaster, the government is working keenly on regulations.&lt;/p&gt;
+
+&lt;p&gt;“The government is getting very strict when it comes to security. The central government recently made empanelment mandatory for any mobile app in bank payment gateway. Regulators have been proactive in ensuring that companies follow certain standards,” shares Agarwal.
+NPCI, shares Agarwal, was quick to get banks to plug the loopholes found by the team at Appknox.&lt;/p&gt;
+
+&lt;p&gt;Talking about their experience with Appknox NPCI, Head of Risk Management, Bharat Panchal, said in a statement, “Appknox has been a crucial partner with us to ensure utmost security of our UPI-based application. We have had good early detection of vulnerabilities with the help of very energetic and brilliant security professionals. ”
+The threat however, is persistent and transformative and both the government and the fintech institutions would need all the help they can find to keep hackers from digging into sensitive user information and thereby, to drive its digitisation push further.&lt;/p&gt;
+
+&lt;p&gt;“It’s a never-ending race where hackers look for more loopholes and banking companies innovate to keep ahead. The problem is that banks and other fintech institutions rely on a single vendor for all their security concerns. What they do not realise is that there could be many brains working to break the system and relying on a single brain for security is really dangerous,” says Agarwal.&lt;/p&gt;
+
+&lt;p&gt;Appknox specialises in providing security to mobile apps and currently services 100 plus companies in the fintech sector.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BHIM gives E-Wallets a run for money</title>
+      <link>http://aadhaarcardnews.in/bhim-gives-e-wallets-run-money/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/bhim-gives-e-wallets-run-money/</guid>
+      <description>
+
+&lt;p&gt;BHIM — or the Bharat Interface For Money — is quickly becoming the favoured mobile payment solution for crores of Indians. Since its launch on December 31 till the end of February, the app had been downloaded 17 million times. Following its Android launch, BHIM is now also available on iOS.&lt;/p&gt;
+
+&lt;p&gt;BHIM is an extension of the Unified Payment System. It allows users to send and receive money through a mobile app that is linked to their bank savings account. This is an elegant solution compared to e-wallets that need to maintain a cash balance in order to be functional. Naturally, the question then arises: Should users switch to BHIM and simply spend from their banks, and stop using e-wallets?&lt;/p&gt;
+
+&lt;p&gt;There are many differences between BHIM and e-wallets, and we’ll examine them here in order to help you understand the pros and cons of both ideas.&lt;/p&gt;
+
+&lt;h1 id=&#34;bhim-vs-wallets-where-bhim-wins&#34;&gt;BHIM vs Wallets: Where BHIM Wins&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Balance, loading &amp;amp; unloading:&lt;/em&gt; The first major difference between BHIM and UPI apps and e-wallets is how you maintain your spending balance. BHIM and UPI apps allow you to send and receive money with your bank account. You do not have to maintain a balance with the app. The app is your bank account, in a sense. But in e-wallets, you must maintain a balance in order to spend from it.&lt;/p&gt;
+
+&lt;p&gt;Not just that, returning your wallet balance back to your bank account will come with limitations and charges. But with BHIM and UPI, there is no need to send the money back from the app to the bank, since the money has been sitting in your account all along.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Interoperability:&lt;/em&gt; Another aspect where BHIM and UPI apps trump e-wallets. E-wallets do not have interoperability, meaning that if you are using Wallet X, you can only transfer money to another user on Wallet X, and not to a user operating Wallet Y. This isn’t a problem with BHIM, since you may move money between accounts with any bank on the BHIM platform. For example, you may be using an SBI account but you can send and receive money from users on ICICI or HDFC.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Spending limits:&lt;/em&gt; BHIM and UPI score heavily here as well. E-wallets have a monthly spending limit of Rs 10,000 which can be raised to Rs 100,000 after the KYC process wherein users need to submit proof of ID and address in order to become authenticated. But BHIM allows a limit of Rs 10,000 per transaction and Rs 20,000 as the total worth of transactions in a 24-hour cycle. UPI apps go further, allowing you to spend up to Rs 100,000 per transaction.&lt;/p&gt;
+
+&lt;h1 id=&#34;where-bhim-lags&#34;&gt;Where BHIM Lags&lt;/h1&gt;
+
+&lt;p&gt;There are broadly two areas where e-wallets have an edge over UPI and BHIM.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Marketing gimmicks:&lt;/em&gt; E-wallets have been around for a few years and they have had the time to build relationships with merchants and businesses. As a result, e-wallets are useful not just for money transfers but also for earning cashbacks and discounts. Not just that, some e-wallets also operate as e-commerce platforms allowing users to buy merchandise, electronics, tickets, etc. UPI and BHIM, on the other hand, are recent innovations and have some catching up to do in this regard.&lt;/p&gt;
+
+&lt;p&gt;Credit usage:* E-wallets allow you to link and spend from your credit card, allowing you to leverage the power of the credit available to you. BHIM works on simpler principles: you get to spend only if you have a bank balance, and you cannot link BHIM and UPI apps to your credit card account yet.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-bhim-is-catching-up&#34;&gt;How BHIM Is Catching Up&lt;/h1&gt;
+
+&lt;p&gt;In the latest Union Budget, Finance Minister Arun Jaitley announced a referral bonus and cashback scheme for BHIM users. “The government will launch two new schemes — a referral bonus for consumers and a cash-back scheme for merchants — to promote the use of BHIM,” Jaitley said during his budget speech. With these inclusions, BHIM will become a little more attractive to users.&lt;/p&gt;
+
+&lt;p&gt;Conclusion
+Both e-wallets and UPI-based apps such as BHIM have a long way to go and a big role to play in India where internet penetration and smartphone usage are increasing by leaps and bounds every year. Both need to evolve in order to accommodate the changing needs of the Indian consumer in an increasingly less cash-dependent economy. However, at this point, you may want to have both BHIM and e-wallets installed on your smartphones. They both have some unique services to offer you.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jio Effect: BSNL Offers 2GB Data Per Day On Rs 339 Recharge</title>
+      <link>http://aadhaarcardnews.in/jio-effect-bsnl-offers-2gb-data-per-day-on-rs-339-recharge/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/jio-effect-bsnl-offers-2gb-data-per-day-on-rs-339-recharge/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Analysts say incumbent telecom operators are coming up with attractive calling plans and lucrative data packs to counter additional competition triggered by Reliance Jio&amp;rsquo;s aggressive entry in the market.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;BSNL is offering 2GB of 3G data per day and unlimited voice calling within its network under a special scheme priced at Rs 339. The &amp;ldquo;Combo STV&amp;rdquo; plan by state-run Bharat Sanchar Nigam Limited or BSNL - for its prepaid customers - comes with a validity of 28 days, the telecom operator said in a statement. Analysts say incumbent telecom operators are coming up with attractive calling plans and lucrative data packs to counter additional competition triggered by Reliance Jio&amp;rsquo;s aggressive entry in the market.&lt;/p&gt;
+
+&lt;h1 id=&#34;highlights&#34;&gt;HIGHLIGHTS&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;BSNL is offering 2GB of 3G data per day under a special recharge plan&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The plan also offers unlimited voice calls on BSNL network&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Telcos in India are giving attractive plans after Jio&amp;rsquo;s aggressive entry&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;here-are-10-things-to-know&#34;&gt;Here are 10 things to know:&lt;/h1&gt;
+
+&lt;p&gt;1) BSNL&amp;rsquo;s special offer under its prepaid mobile services is in effect from March 16, 2017.&lt;/p&gt;
+
+&lt;p&gt;2) The offer is limited for 90 days.&lt;/p&gt;
+
+&lt;p&gt;3) The &amp;ldquo;unlimited data&amp;rdquo; on offer will come with a &amp;ldquo;fair use policy&amp;rdquo; of 2 GB per day with a validity of 28 days.&lt;/p&gt;
+
+&lt;p&gt;4) BSNL is offering unlimited voice calls within its network. Calls outside the BSNL network will be for 25 minutes per day.&lt;/p&gt;
+
+&lt;p&gt;5) After exhausting the 25-minute limit, the customers will be charged at 25 paise per minute.&lt;/p&gt;
+
+&lt;p&gt;6) &amp;ldquo;The data of 2GB per day is one of the best in the industry,&amp;rdquo; BSNL added in its statement.&lt;/p&gt;
+
+&lt;p&gt;7) &amp;ldquo;We are committed to providing affordable and efficient services to all segments of our loyal mobile customers. We offer best prices to our customers considering present trend of Indian telecom industry,&amp;rdquo; BSNL director for consumer mobility RK Mittal said.&lt;/p&gt;
+
+&lt;p&gt;8) Religare analysts Rumit Dugar and Saumya Shrivastava believe the market could remain competitive for an extended period considering Jio&amp;rsquo;s aggressive revenue market share expectations. (Also read: 28 GB data for Rs 345: Airtel&amp;rsquo;s latest offer to counter Jio)&lt;/p&gt;
+
+&lt;p&gt;9) Reliance Industries&amp;rsquo; telecom arm - Reliance Jio Infocomm - is offering 1GB of 4G data per day and unlimited calling to all networks for free till March 31.&lt;/p&gt;
+
+&lt;p&gt;10) From April 1, Jio customers opting for its Prime service will continue to enjoy the unlimited calls and data benefits under its New Year Offer for a full year, till March 31, 2018. Jio&amp;rsquo;s Prime subscription will come at a one-time enrolment fee of Rs. 99 and &amp;ldquo;a rock-bottom introductory price” of only Rs 10 per day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PF (Provident Fund) Money Withdrawal: Here Are Five Things To Know</title>
       <link>http://aadhaarcardnews.in/pf-provident-fund-money-withdrawal-here-are-five-things-to-know/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
@@ -354,91 +481,6 @@
 &lt;p&gt;The board earns its revenue from the ‘welfare cess’, 1% of the total cost of construction projects which are worth Rs 10 lakh or more, which is submitted to the labour department to utilise the labour schemes.&lt;/p&gt;
 
 &lt;p&gt;Labour department has also faced wrath of the Punjab and Haryana high court in past due to its slow utilisation of welfare funds.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aadhaar not compulsory for obtaining marriage certificate: CIC to Govt</title>
-      <link>http://aadhaarcardnews.in/aadhaar-not-compulsory-obtaining-marriage-certificate-cic-govt/</link>
-      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/aadhaar-not-compulsory-obtaining-marriage-certificate-cic-govt/</guid>
-      <description>
-
-&lt;p&gt;The Chief Information Commission has asked the government and marriage registration authorities to raise awareness and provide publicity through various media that Aadhaar is not compulsory for the purpose of marriage registration scheme, reports LiveLaw.&lt;/p&gt;
-
-&lt;p&gt;The commission ruled that the compulsory registration of marriages helps tackle various issues like child marriage, marriage without consent, bigamous marriages, etc., and as such, the government should make it easier and more convenient to facilitate the registration, by not requiring other documents like Aadhaar and making changes for online application for marriage under the Special Marriage Act etc.&lt;/p&gt;
-
-&lt;p&gt;The CIC cited Supreme Court’s order from 2014, which ruled that the government should not restrict social benefits to those who are yet to receive their Aadhaar card. Last year, the SC had also said that the card scheme is purely voluntary and cannot be made mandatory for scholarships. However, contrary to its prior stance, the SC asked the Government to link all mobile numbers with Aadhaar card details within a year.&lt;/p&gt;
-
-&lt;h1 id=&#34;centre-s-push-to-increase-aadhaar-saturation&#34;&gt;Centre’s push to increase Aadhaar saturation?&lt;/h1&gt;
-
-&lt;p&gt;The usage of Aadhaar as a verification system has been on the rise where multiple services including the IIT JEE, employee provident funds, PDS food grain purchases, RTE admissions and Jharkhand’s food and public distribution systems also using it. Private companies have also started using Aadhaar for verification purposes, such as iris scans by DCB Bank for eKYC, Microsoft’s Skype Lite which supports Aadhaar based verification, etc. However, use of Aadhaar by making it compulsory to avail some services, has come under heavy criticism for not respecting user privacy or being very secure.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Axis Bank case: To make Aadhaar safe, encryption devices coming soon, more in store</title>
-      <link>http://aadhaarcardnews.in/axis-bank-case-make-aadhaar-safe-encryption-devices-coming-soon-store/</link>
-      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/axis-bank-case-make-aadhaar-safe-encryption-devices-coming-soon-store/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Even Aadhaar sceptics would do well to keep in mind that, while a criminal complaint has been filed against Axis Bank, Suvidhaa Infoserve and eMudhra for allegedly storing biometrics.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Even Aadhaar sceptics would do well to keep in mind that, while a criminal complaint has been filed against Axis Bank, Suvidhaa Infoserve and eMudhra for allegedly storing biometrics and using them in an unauthorised manner, it was UIDAI that discovered the irregular transactions and reported them to the Delhi Police’s cyber cell and, pending a probe, all transaction requests from these organisations have been put on hold. If the UIDAI system is able to detect fraud, as the banks did when they found millions of debit/credit cards had been compromised due to a faulty ‘switch’ in a payments&lt;/p&gt;
-
-&lt;p&gt;gateway some months ago in India, presumably that would mean it was working well.
-Under normal circumstances, as a safety feature, every time a transaction is made like withdrawing funds from a bank and UIDAI replies to an authentication request, an SMS/email alert is sent to the subscriber.&lt;/p&gt;
-
-&lt;p&gt;So, why didn’t UIDAI send out alerts this time around when, going by a report in The Times of India, one individual performed 397 transactions, many of which were based on biometrics that were ‘stored’ locally and bunched during one week in January? Is this an example of Aadhaar being open to&lt;/p&gt;
-
-&lt;p&gt;misuse since banks, etc, can store your biometrics and use them to illegally authorise transactions later? There have also been reports of one website publishing Aadhaar data of 500,000 minors—this, of course, is a list of names and matching Aadhaar numbers, but does not have actual biometrics—and of white-hat hackers generating iris scans from high-resolution photographs and even the possibility of data being compromised since Aadhaar registrations/verifications are typically done by several private firms.&lt;/p&gt;
-
-&lt;p&gt;First, as UIDAI officials point out, since the individual doing the transactions was using his own Aadhaar number, the alerts went to him—to that extent, the system’s first fail-safe worked. Had the stored biometrics belonged to someone else, say a reader of this newspaper, she would have got the&lt;/p&gt;
-
-&lt;p&gt;SMS/email alerts and would have escalated matters. Two, since the authentication request, and the reply, are encrypted at a 2048-bit level—normal encryption levels are 128 or 256—UIDAI officials argue this makes the system very safe from hacking. But what of cases where the biometrics are stolen, or generated from high-resolution photographs, and then stored locally? Since security has to be an evolving feature, designed to beat threats as they occur or before they do, UIDAI plans to introduce the concept of ‘registered devices’.&lt;/p&gt;
-
-&lt;p&gt;For the last few months, UIDAI has been working with vendors of biometric-capture devices to get them to install an Aadhaar-encryption key in the hardware itself—among other things, it ensures the biometric data used is ‘captured live’ and is not stored data. Last month, it was notified that, after&lt;/p&gt;
-
-&lt;p&gt;May, no data requests will be entertained if they come from ‘unregistered devices’—existing biometric devices, such as those in ration shops already, are to be upgraded through software right now and those bought in the future must have the necessary pre-installed keys. It is certain criminals will find smarter ways to beat the system, and UIDAI will have to keep evolving to heighten security—to the extent some beat the system, or try to, as happens in the case of bank frauds, the criminal justice system has to be used to punish them.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Is Your Aadhaar Biometrics Safe? Firms Accused Of Storing Biometrics And Using Them Illegally</title>
-      <link>http://aadhaarcardnews.in/aadhaar-biometrics-safe-firms-accused-storing-biometrics-using-illegally/</link>
-      <pubDate>Sat, 25 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/aadhaar-biometrics-safe-firms-accused-storing-biometrics-using-illegally/</guid>
-      <description>&lt;p&gt;Fears of Aadhar biometric security have been compounded as the government is sprinting towards the next phase of ‘cashless India’ and digitization&lt;/p&gt;
-
-&lt;p&gt;The biggest fear regarding misuse of Aadhar biometrics and security loopholes are becoming real.&lt;/p&gt;
-
-&lt;p&gt;Three firms are being probed for attempting unauthorised authentication and impersonation by using stored Aadhaar biometrics, reported The Times of India.&lt;/p&gt;
-
-&lt;p&gt;The paper reported that the Unique Identification Authority of India (UIDAI) has lodged a criminal complaint with the cyber cell of Delhi Police, saying it is a clear violation of the law.&lt;/p&gt;
-
-&lt;p&gt;“The firms are Axis Bank, Suvidhaa Infoserve and eMudhra. They have been served a “notice for action“ under Aadhaar regulations”.&lt;/p&gt;
-
-&lt;p&gt;The firms have been accused of storing biometrics and using them illegally.&lt;/p&gt;
-
-&lt;p&gt;The fears of biometric security have been compounded as the government is sprinting towards the next phase of ‘cashless India’ and digitization. They are preparing to launch Aadhaar Pay, an initiative that will supersede the need to use credit cards, debit cards, smartphones and PINs to make payments or transfer money.&lt;/p&gt;
-
-&lt;p&gt;The proposed system of payments will use a person’s biometric data and fingerprints to make payments through Aadhaar-linked bank accounts.&lt;/p&gt;
-
-&lt;p&gt;Outlook’s Senior Associate Editor Arindam Mukherjee had in a clairvoyant article for the magazine raised the fears of biometrics being manipulated.&lt;/p&gt;
-
-&lt;p&gt;In the article, critics of Aadhaar and Aadhaar-based services raised the issue of privacy and security of biometric and personal data.&lt;/p&gt;
-
-&lt;p&gt;Pranesh Prakash, policy director with the Centre for Internet and Society (CIS), ­rec­ently tweeted, “As long as Aadhar-Enabled Payment Services encourages biometric authorisation of transactions, it is bound to be a security nightmare, with widespread fraud.” Would you tell a shopkeeper your debit card’s PIN? No. Then why share your fingerprint? A fingerprint, in this system, becomes a kind of unchangeable Aadhaar Enabled Payment System PIN, he asks.
-Pointing out a possible danger, Usha Ramanathan, an independent law resear­c­her who has been following Aadhaar since its inception, says, “In many ­payments, biometric data is authenticated and then it remains in the system where there are leakages. Intermediaries then have access to the data, which is thus made insecure.”&lt;/p&gt;
-
-&lt;p&gt;According to the UIDAI, however, once biometric data is provided by the consumer while making Aadhaar-based payments, it gets encrypted and a merchant doesn’t get access to that data. The Aadhaar Act also prohibits any storing of biometric data in local devices.&lt;/p&gt;
-
-&lt;p&gt;And yet, there are many like CIS executive director Sunil Abraham who believe it is a mistake to use biometrics for authentication, especially when payments are concerned.
-“Our concern with Aadhaar Pay is about the biometric component of the project,” says Abraham. “Biometrics is an identification technology. Unfortunately, it is being presented as an authentication technology. It is not a secure authentication technology as biometric data can be stolen easily. It is also irrevocable; once bio­metric data is stolen, it cannot be ­re-issued like a smart card.”&lt;/p&gt;
-
-&lt;p&gt;Then there is the problem of availability of fingerprints. In the case of many people from rural areas and the working class, fingerprints get affected due to the manual nature of their work. This makes it difficult for this target group of UIDAI to conduct transactions properly through Aadhaar Pay. “In Rajasthan, 30 per cent of the households are not even able to procure ration using fingerprints,” says Ramanathan.&lt;/p&gt;
 </description>
     </item>
     
