@@ -8,6 +8,287 @@
     <atom:link href="http://aadhaarcardnews.in/categories/latest-technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Banks Asked To Update ATM Software To Prevent &#39;WannaCry&#39; Cyberattack</title>
+      <link>http://aadhaarcardnews.in/banks-asked-to-update-atm-software-to-prevent-wannacry/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/banks-asked-to-update-atm-software-to-prevent-wannacry/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The RBI asked banks to put in place a software update at automated teller machines to prevent their systems from a malware that has attacked payment systems across the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Reserve Bank of India has asked banks to follow the instructions of the Indian Computer Emergency Response Team (CERT-In), a government organisation, to prevent attack by ransomware &amp;lsquo;WannaCry&amp;rsquo; which has impacted various IT networks in over 150 countries. CERT-In has come out with a list of dos and don&amp;rsquo;ts and webcast on how to protect networks from the global ransomware attack.&lt;/p&gt;
+
+&lt;p&gt;It has been reported that a new ransomware &amp;lsquo;WannaCry&amp;rsquo; is spreading widely, the RBI advisory to the banks said.&lt;/p&gt;
+
+&lt;p&gt;Wannacry encrypts the files on infected Windows system and spreads by exploiting vulnerabilities, it said.&lt;/p&gt;
+
+&lt;p&gt;The RBI also asked all banks to put in place a software update at ATMs to prevent their systems from a malware that has attacked payment systems across the world.&lt;/p&gt;
+
+&lt;p&gt;In a separate malware attack last year, 3.2 lakh debit cards were compromised in the country. Data of the users who transacted from ATM machines of Hitachi were compromised during May, June and July last year. The Hitachi ATMs deployed by many White Label ATM players and Yes Bank were impacted by the malware.&lt;/p&gt;
+
+&lt;p&gt;According to reports, ATMs or automated teller machines are highly vulnerable to such malware attacks as they currently run on old version of Microsoft&amp;rsquo;s Windows operating system, making a software security patch update a necessary exercise.&lt;/p&gt;
+
+&lt;p&gt;There are a total of 2.2 lakh ATMs in India, of which many old ones run on Windows XP.&lt;/p&gt;
+
+&lt;p&gt;Over the weekend, the ransomware has hit systems in more than 150 countries, including Russia and the UK, in one of the most widespread cyber attacks in history. It infected computers running on older versions of Microsoft operating systems like XP, locking access to files on the computer.&lt;/p&gt;
+
+&lt;p&gt;The cyber criminals have demanded a fee of about $300 in crypto-currencies like Bitcoin for unlocking the device.&lt;/p&gt;
+
+&lt;p&gt;Microsoft has introduced a security patch to tackle the situation, and consumers across the globe have been advised to download the solution at the earliest.&lt;/p&gt;
+
+&lt;p&gt;CERT-In on Monday said it has not received any formal report of cyber attack on India&amp;rsquo;s vital networks by the crippling global ransomware, &amp;lsquo;WannaCry&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;The Ministry of Electronics and Information Technology (MeitY) had said on Sunday that a few systems of the Police Department in Andhra Pradesh were impacted and that the state government has been informed to follow the advisory by the CERT-In.&lt;/p&gt;
+
+&lt;p&gt;Besides, the Maharashtra Police department said it was partially hit by the ransomware.&lt;/p&gt;
+
+&lt;p&gt;Following the alert, the Gujarat government began equipping its state computer systems with anti-virus software and upgrading its Microsoft operating systems.&lt;/p&gt;
+
+&lt;p&gt;As per the advisory issued by CERT-In, the ransomware infects other computers on the same network and is also spreading through malicious attachments to e-mails. Security firms have suggested that users immediately disconnect the infected device from the local network to contain the spread of infection.&lt;/p&gt;
+
+&lt;p&gt;In Spain, major companies including telecommunications firm Telefonica have been infected. The most disruptive attacks were reported in the UK, where hospitals and clinics were forced to turn away patients after losing access to computers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Banks limit functions to a minimum to avoid hack</title>
+      <link>http://aadhaarcardnews.in/amid-wannacry-chaos-banks-limit/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/amid-wannacry-chaos-banks-limit/</guid>
+      <description>&lt;p&gt;Indian banks ordered a ban on staff using internet in office except for essential banking services, while the leader, State Bank of India, has installed new software and ordered branches to follow instructions to prevent Wannacry malware from crippling operations.&lt;/p&gt;
+
+&lt;p&gt;Bankers were barred from accessing various websites, including Gmail and Yahoo. Those in non-sensitive departments were also told not to visit social media sites like Facebook and Twitter. The use of internet was permitted only for clearing operations and necessary businesses.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;This is to be taken most seriously. Please ensure these are percolated to the last mile up to every employee having access to the network, including staff working in offices/departments/TCs/call centres, etc,&amp;rdquo; Union Bank of India chairman Arun Tiwary said in a message to departmental heads.&lt;/p&gt;
+
+&lt;p&gt;The Indian Banks&amp;rsquo; Association warned its members to take precaution in a way that would protect the individual banks as well as the system from the attack, which is threatening to stall businesses. &amp;ldquo;We have advised banks to take utmost precaution in light of the reports of a global cyber attack.&lt;/p&gt;
+
+&lt;p&gt;This advisory is just precautionary in nature and we are confident that banks are well equipped to deal with any challenges that come,&amp;rdquo; said an IBA official. He cannot be named because he is not allowed to speak to media.&lt;/p&gt;
+
+&lt;p&gt;Banks, in general, use dedicated computers to access internet so that their core banking solutions remain immune to outside threats, but these dedicated machines are now being used with restrictions, senior officials of three state-run banks said.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;We are being extremely vigilant because of this new threat. Though we have found nothing extraordinary in our systems so far, our IT teams are on high alert because of this heightened threat,&amp;rdquo; said the chief operating officer at a private sector bank.&lt;/p&gt;
+
+&lt;p&gt;The malware spreads by exploiting vulnerable systems running on Windows operating system. The Indian Computer Emergency Response Team has issued advisory for prevention of this threat. &amp;ldquo;So far, there is nothing damaging coming out of India, but there is considerable risk for the large databases of KYC and Aadhaar, which banks will have to be careful about,&amp;rdquo; said Ashvin Parekh, an independent banking consultant.&lt;/p&gt;
+
+&lt;p&gt;In October last year, a malwarerelated security breach had forced SBI to block six-lakh debit cards as a precaution after it was alerted by card network companies such as Mastercard and Visa.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Digital transactions in financial services have grown at a rapid pace in India, but investment in security is not commensurate with the risk the transactions pose,&amp;rdquo; said Piyush Singh, managing director, financial services - Asia Pacific, Accenture.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Banks in India will not only have to look at investment in technology infrastructure, but also operations management and contagion of risks posed by technology.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Banks Cut Home Loans Rates, Special Discounts for Women</title>
+      <link>http://aadhaarcardnews.in/icici-hdfc-lower-home-loan-rates-for-affordable/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/icici-hdfc-lower-home-loan-rates-for-affordable/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;ICICI and HDFC&amp;rsquo;s decision comes close on the heels of the State Bank of India and LIC Housing Finance&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;highlights&#34;&gt;HIGHLIGHTS&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ICICI Bank cut home loan rates by 0.3% for loans up to Rs 30 lakh&lt;/li&gt;
+&lt;li&gt;HDFC lowers rate to 8.35% for new home loan up to 30 lakh for women&lt;/li&gt;
+&lt;li&gt;Other salaried borrowers can avail home loans at 8.40%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;India&amp;rsquo;s largest private sector lender ICICI Bank cut its home loan rates by 0.3 per cent for loans up to Rs 30 lakh, a move that was matched by HDFC Bank on Monday bringing them in line with the country&amp;rsquo;s largest lender State Bank of India. SBI is the biggest player in the home loan segment with around 26 per cent market share, followed by HDFC. With the cut in interest rates, salaried borrowers can avail home loans at 8.40 per cent while salaried women borrowers will get home loans at 8.35 per cent.&lt;/p&gt;
+
+&lt;p&gt;Commenting on the move, ICICI Bank managing director Chanda Kochhar said the bank is committed to supporting the government&amp;rsquo;s vision to provide housing for all by 2022.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;In line with this commitment, we have reduced the home loan interest rates for the affordable housing segment. With this announcement, customers of Economically Weaker Section (EWS) and Low Income Group (LIG) can avail the dual benefit of low interest rates from us and the Credit Linked Subsidy under the Pradhan Mantri Awas Yojana,&amp;rdquo; she said.&lt;/p&gt;
+
+&lt;p&gt;ICICI Bank also said that its customers taking home loans in the affordable segment will also have the option to select the type of interest rate. In both these cases, the reduction in interest rates is 30 basis points from the previous rates.&lt;/p&gt;
+
+&lt;p&gt;They can enjoy the benefit of floating interest rate or a fixed interest rate for the initial two/three years followed by floating rate, ICICI Bank said, claiming to be the first to offer such flexibility to customers. &amp;ldquo;The reduced rate will be effective from May 15, 2017 for new borrowers,&amp;rdquo; it added.&lt;/p&gt;
+
+&lt;p&gt;SBI and LIC Housing Finance had dialed back interest rates on housing loans last week.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How To Avail 100% Cashback In Jio&#39;s New Offer For JioFi</title>
+      <link>http://aadhaarcardnews.in/jios-new-exchange-offer-buy-jiofi-for-rs-1999/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/jios-new-exchange-offer-buy-jiofi-for-rs-1999/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Reliance Jio is offering up to 100 per cent cash back (10 top-up vouchers worth Rs 201 each) on JioFi device if you buy it with exchange of your old dongle.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;After &amp;ldquo;Dhan Dhana Dhan&amp;rdquo; offer, newcomer Reliance Jio has launched new offers to attract dongle, data card and wifi router users. The Mukesh Ambani-owned telecom venture is offering up to 100 per cent cash back (10 top-up vouchers worth Rs 201 each) on JioFi device if you buy it with exchange of your old dongle. If you do not want to avail the exchange facility, then you will get free data worth Rs 1,005 (5 top-up vouchers worth Rs 201 each) or nearly 50 per cent cash back on the JioFi device value of Rs 1,999. However, this offer is applicable only if you buy the JioFi device from Jio.com website.&lt;/p&gt;
+
+&lt;p&gt;Here are the steps you need to follow to avail the offer:&lt;/p&gt;
+
+&lt;p&gt;-First you need to buy the JioFi router from the Jio.com website by paying Rs 1,999. You can also avail an equated monthly installment (EMI) facility to buy this device.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;After buying the device online, you need to visit a Jio Store with the original invoice, JioFi Box and your old dongle if you want to avail the exchange facility (See the list of old dongles eligible for exchange offer). You also need to carry original and copy of Proof of Address (POA), Proof of Identity (POI), and a passport size colour photograph. For availing Jio SIM through eKYC, a local Aadhaar card is must.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After availing the Jio SIM, which will be used in the device, you need to do a recharge of Rs 408 (Rs 309+Rs 99) or Rs 608 (Rs 309+Rs 99) for availing the Jio Prime membership along with Jio Dhan Dhana Dhan offer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Post Jio Dhan Dhana Dhan offer, customer has to recharge with minimum Rs. 149 and above to be eligible for free vouchers of Rs 201, which gives 5GB of 4G data.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Post expiry of Jio Dhan Dhana Dhan offer period, which is for 84 days, you will get free 4G data worth up to Rs. 2,010 (10 vouchers worth Rs. 201 each) if you had availed the exchange offer. Customers will be entitled for 5GB of 4G data worth Rs 201 top up with each recharge (up to 10 recharges) done before March 31, 2018.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you do not avail the exchange offer, then post expiry of Jio Dhan Dhana Dhan offer period, you will get free 4G data worth up to Rs. 1005 (5 vouchers worth Rs. 201 top up). Customers will be entitled for 5GB of 4G data worth Rs 201 top up with each recharge (up to 5 recharges) done before March 31, 2018.&lt;/p&gt;
+
+&lt;p&gt;The offer is applicable under both pre-paid and postpaid plans&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ransomware Virus WannaCry Hits Gujarat Government&#39;s IT Network</title>
+      <link>http://aadhaarcardnews.in/wannacry-virus-affects-gujarat-government-it-network/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/wannacry-virus-affects-gujarat-government-it-network/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The virus has affected around 120 computers linked to the Gujarat State Wide Area Network.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Around 120 computers connected to the Gujarat government&amp;rsquo;s information technology network were hit by ransomware virus &amp;lsquo;Wannacry&amp;rsquo; though no &amp;ldquo;valuable&amp;rdquo; data was compromised, a senior government official said today.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;As per our information, so far the virus has affected around 120 computers in different government departments linked to the Gujarat State Wide Area Network (GSWAN),&amp;rdquo; said Science and Technology Department Secretary Dhananjay Dwivedi.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;But none of the affected computer has any valuable data or important information that could adversely impact the government&amp;rsquo;s functioning,&amp;rdquo; said Dwivedi. Many computers linked to the district collectorate across the state were affected by the virus even though no major data loss was reported.
+Following the attack, computers that were functioning were shut down as precautionary measure, crippling the work, the officials said.&lt;/p&gt;
+
+&lt;p&gt;Six computers at Mehsana district collectorate were affected by the ransomware virus with the message reflecting on the screen saying that the data of the computer has been &amp;ldquo;encrypted&amp;rdquo; and one will have to pay a certain amount in bitcoins to get the data back, an official of the National Informatics Centre said.&lt;/p&gt;
+
+&lt;p&gt;Mehsana Collector Alok Pandey said following the attack, all computers connected to the district collectorate were shut down as precautionary measure. &amp;ldquo;All computers have been shut down after the attack was reported in some computers. These were the computers operating independently and there is no data loss as such due to the attack,&amp;rdquo; said Pandey.&lt;/p&gt;
+
+&lt;p&gt;Several collectorates across the state reported instances of computers getting affected by the virus. At least three computers of Jamnagar Regional Transport Office were also affected by the virus, leading to shutting down of the RTO&amp;rsquo;s entire operation.&lt;/p&gt;
+
+&lt;p&gt;The computers which were linked to the works related to the registration certificate (RC) books were affected by the virus, which sent out the message that the data have been encrypted, said Assistant RTO F U Jakhra.&lt;/p&gt;
+
+&lt;p&gt;The affected computers, however, were not linked to GSWAN network, and were being handled by a private agency, added Jakhra. State&amp;rsquo;s Crime Records Bureau (CRB) issued advisory for the police stations and public to take precautionary measures to prevent the attack and said reports have been sought from individual police stations where computers were affected by the virus.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;We have sought reports from police stations on what kind of problem they have faced with their computer with regards to data. We will analyse the report and take corrective actions accordingly,&amp;rdquo; said SCRB SP Ashok Kumar.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, anti-virus software was being installed and operating system upgraded in computers connected to GSWAN to prevent such hacking attacks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some Indian companies pay WannaCry ransom</title>
+      <link>http://aadhaarcardnews.in/despite-legal-implication-some-companies-pay-the-ransom/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/despite-legal-implication-some-companies-pay-the-ransom/</guid>
+      <description>&lt;p&gt;A top executive working with an Indian conglomerate couldn&amp;rsquo;t fathom how a bill of $300 (Rs 19,000) landed up at his company for using a free Wi-Fi at a five-star hotel coffee shop. The CEO of another New Delhibased manufacturing company clicked on an unknown link — a mistake that would come back to haunt him.&lt;/p&gt;
+
+&lt;p&gt;The laptops of the executive and the CEO were compromised by ransomware WannaCry, the malicious fast-spreading virus that has confounded cyber security experts around the world. The malware demands $300 in bitcoins to release the infected system and its data, causing hundreds of millions of dollars in business damage to corporations and government utilities.&lt;/p&gt;
+
+&lt;p&gt;Though lawyers and experts have been advising companies to not pay bitcoins, some Indian companies are believed to have gone ahead and paid the ransom to get their systems unlocked. &amp;ldquo;There would be some companies that may have paid the ransom in haste to retrieve their encrypted data. As of Monday morning, the hackers seem to have globally collected 23 bitcoins, which is around $41,400,&amp;rdquo; said Amit Jaju, executive director, Fraud Investigation &amp;amp; Dispute Services (FIDS), EY India.&lt;/p&gt;
+
+&lt;p&gt;Most legal experts and cybercrime experts are cautioning companies not to pay as this could also have legal implications. &amp;ldquo;PwC never recommends paying ransomware ransom — unless there is a threat to life. Doing so fuels the ransomware economy, funding development of additional ransomware techniques and campaigns. In many cases, we have seen that when money is paid, larger attack happens a few days or weeks later,&amp;rdquo; said Sivarama Krishnan, leader -cyber security at PwC India.&lt;/p&gt;
+
+&lt;p&gt;A Twitter handle, @actual_ransom, that describes itself as &amp;ldquo;a bot that is watching the bitcoin wallets tied to WannaCry ransomware attack&amp;rdquo; is also providing live updates of bitcoins paid by companies globally. &amp;ldquo;While we are monitoring this Twitter handle, you can&amp;rsquo;t trust the authenticity of this,&amp;rdquo; said a cybercrime expert with a consultancy.&lt;/p&gt;
+
+&lt;p&gt;Reports of corporations crippled by the attack are pouring in three days after the hackers stunned the world and showed the impotence of cyber security networks. The ransomware locked about 200 computers of a Mumbai-headquartered company, which did not have any backup for its crucial income tax data.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The company worried that the income tax department would come after it if it didn&amp;rsquo;t have the data readily available,&amp;rdquo; said a person in the know. Legal experts are cautioning companies against paying the ransom as this could land them in trouble.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;While some companies may consider making payment to obtain the decryption key to unlock their computers that have been locked by the WCry virus, one must consider the legal implications of this action,&amp;rdquo; said Tushar Ajinkya, partner, DSK Legal, a law firm. &amp;ldquo;In the event it is concluded that the actions of the ransomware WCry in demanding payment for release of the encrypted data tantamount to extortion, then in addition to a FEMA violation, facilitators and recipients of such payment may also attract provisions of the PMLA,&amp;rdquo; Ajinkya said.&lt;/p&gt;
+
+&lt;p&gt;Many companies are believed to have paid the bitcoins with the help of third-party service providers.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Typically, the process involves creating a bitcoin wallet and then making the payment. However, this should ideally be done in consultation with legal, forensic and cyber expert advisors as there tends to be little or no guarantee of regaining access to the data once the ransom is paid,&amp;rdquo; said Jaju of EY.&lt;/p&gt;
+
+&lt;p&gt;This is not the first time a ransomware has attacked India Inc. ET on January 11 reported that hackers seized control of computers at three banks and a pharmaceutical company and then demanded a ransom in bitcoins for the decryption keys to unfreeze them.&lt;/p&gt;
+
+&lt;p&gt;In most cases, Indian companies do not wish to report the cases or file a complaint with the investigative authorities.&lt;/p&gt;
+
+&lt;p&gt;Even Indian banks, which are required to make a mandatory disclosure to the regulator of any cyberattack, seldom do this.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is WannaCry ransomware? How can it affect India?</title>
+      <link>http://aadhaarcardnews.in/what-is-wannacry-ransomware-how-can-it-affect-india/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/what-is-wannacry-ransomware-how-can-it-affect-india/</guid>
+      <description>&lt;p&gt;&lt;em&gt;WannaCry, a crypto-ransomware, also known as WannaCrypt, has affected over 1,00,000 computers spread over 100-150 countries, including India, on May 12.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;WannaCry, a crypto-ransomware, also known as WannaCrypt, has affected over 1,00,000 computers spread over 100-150 countries, including India, on May 12. Termed as one of the biggest ransomware attacks the world has ever seen, this bug has slept open dark signs of vulnerabilities in the digital era. Governments and experts are expecting a possible worsening of the ransomware cyber-attack. The indiscriminate attack began Friday and struck banks, hospitals and government agencies, exploiting known vulnerabilities in older Microsoft computer operating systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;What is the attack about?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;WannaCry, a crypto-ransomware that is also called WannaCrypt, affected at least 1,00,000 computers spread over 100-150 countries, including India, on Friday. The WanaCrypt0r 2.0 bug basically encrypts data on a computer within seconds and displays a message asking the user to pay a ransom of $ 300 in Bitcoins to restore access to the device and the data inside. Even FedEx, European car factories, Spanish telecoms giant Telefonica, Britain’s health service and Germany’s Deutsche Bahn rail network have been hit. Payment is demanded within three days or the price is doubled, and if none is received within seven days the locked files will be deleted, according to the screen message, agencies reported.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/cZ543_0bjbw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;em&gt;Is India safe? Is you Aadhaar card save?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The attack was specifically targeted at Microsoft Windows devices. Microsoft claims it “released a security update which addresses the vulnerability that these attacks are exploiting” in March itself, and advised users to update their systems in order to deploy the latest patches. However, Indians usually have the Windows running on office desktops, which makes the data vulnerable. A lot of personal data online are now connected to the Aadhaar data of over a billion Indians. “Since the user’s bank account is linked with his Aadhaar number, the ransomware can potentially lock down the account and make it unusable unless a ransom is paid,” Pradipto Chakrabarty, Regional Director, CompTIA India.
+F-Secure highlighted the need for a four-phase approach to cybersecurity: Predict, Prevent, Detect, and Respond; and detect by monitoring infrastructure for signs of intrusion or suspicious behaviour.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>how do I protect my PC from WannaCry?</title>
+      <link>http://aadhaarcardnews.in/how-do-i-protect-my-pc-from-wannacry/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/how-do-i-protect-my-pc-from-wannacry/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Everything you need to know about ransomware including the WannaCry attack, how to protect your PCs and laptops and what to do if you&amp;rsquo;re affected.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How does WannaCry work?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Like a lot of malware, it can arrive as an email attachment. This method relies on computer users opening the attachment, or clicking on a link in an email, which causes the program to run.
+People often open these attachments or click links out of curiosity, because the sender is someone in their address book.
+WannaCry then encrypts all the files and documents on the computer so the user cannot open them.
+It displays a message saying “Ooops, your files have been encrypted!” and says you have three days to pay a $300 or $600 ransom.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Which versions of Windows are affected?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If your computer runs Windows 10, it wasn’t targeted by WannaCry according to Microsoft’s blog post.
+Also, up-to-date Windows 10 PCs would have been protected from the attack in any case.
+The same security update in March would have protected Windows Vista, Windows 7 and Windows 8.1 systems, as long as you had automatic updates turned on (which is the default).
+Only older versions of Windows which are no longer supported were vulnerable, including Windows XP and Windows 8.
+It’s worth noting, though, that in general home users should not be affected by this particular piece of ransomware. It mainly targeted computers running the business version of Windows, specifically those using the SMB network file system.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How can I protect my files from WannaCry?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Microsoft has issued a security patch for Windows XP and Windows 8 – a very unusual step for unsupported operating systems – which you can download from the links on Microsoft’s blog.
+If you have Windows Update enabled on other versions then you will already be protected against WannaCry and any other attacks which use the same vulnerability.
+If you’re not sure, then open the Control Panel (you’ll find a link in the Start menu) and search for Windows Update. Click through to Windows Update and you’ll be able to check if it’s enabled or not.
+There should be a button ‘Check for updates’ which you can click to force Windows to search and install critical updates.
+Back up!&lt;/p&gt;
+
+&lt;p&gt;Of course, as we always recommend, you should have at least one (if not two) copies of any files you can’t afford to lose. Photos, home videos, financial documents and other files that can’t be replaced should be backed up regularly.
+Ransomware is often clever enough to scan your home network and infect other computers and even network storage drives (NAS drives) so it’s really important to make a backup on an external hard drive that you disconnect and keep safely somewhere.
+You can find our pick of the best backup software here.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Don’t open attachments&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;You, as the computer user, are often the weak link in the chain. Windows and antivirus software – see below – can help to protect you from ransomware attacks, but you can help yourself by being extremely cautious about which email attachments you open and which links you click.
+Typically, emails from hackers won’t contain a personal message, or it will be so generic that you can’t be sure it’s really from the person in the ‘sender’ field.
+In WannaCry’s case, at least some of the emails pretended to be an important email from a bank about a money transfer.
+Either just delete the email, or call the sender and ask them if they sent the email and what is in the attachment, or on the other end of the link. Unless you are absolutely sure the attachment is safe, don’t click on it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Won’t antivirus software protect me from WannaCry?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Most but not all antivirus software now contains ‘anti-ransomware’ that should help protect your PCs and laptops from WannaCry and other ransomware.
+That’s why it’s important not to rely just on Windows’ own security but to add an extra layer of protection.
+Check out our list of the best antivirus to make sure you’re running one of our recommended packages. Our favourite is BitDefender, but there are plenty of other great options to choose from too.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;My PC is infected with WannaCry. What should I do?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;First, don’t pay the ransom. It only encourages the criminals – getting paid is their end game.
+Some security experts predict there could be a free ‘fix’ to decrypt the files in a few days and remove the malware.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fund Transfer To Get Faster From July 10: 5 Things To Know</title>
       <link>http://aadhaarcardnews.in/fund-transfer-to-get-faster-from-july-10/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
@@ -191,250 +472,6 @@
 &lt;p&gt;Samsung has already undertaken some early tests of the technology on its campus in South Korea, and mobile operators and vendors have announced 5G trials in countries ranging from the United States to Japan.&lt;/p&gt;
 
 &lt;p&gt;Arqiva, which counts the Canada Pension Plan Investment Board and Macquarie as investors, is considering a stock market listing and is seeking new investors, sources said this month.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>200 Airports To Be Brought Under UDAN Scheme: Jayanta Sinha</title>
-      <link>http://aadhaarcardnews.in/200-airports-to-be-brought-under-udan-scheme/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/200-airports-to-be-brought-under-udan-scheme/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Jayanta Sinha said government was also keen to reduce the subsidy burden.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The central government has embarked upon a plan to bring 200 airports under the regional air connectivity scheme, Union Minister of State for Aviation Jayanta Sinha said here today.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Under the UDAN (Ude Desh ka Aam Naagrik) regional air connectivity scheme, 33 airports have been already included since its launch last year in addition to 75 taking the total to 108. We intend to take the number to 200,&amp;rdquo; Mr Sinha said at an interaction at Bharat Chamber of Commerce.&lt;/p&gt;
-
-&lt;p&gt;For this, we will have multiple rounds of bidding, he said, adding the government was also keen to reduce the subsidy burden.&lt;/p&gt;
-
-&lt;p&gt;Mr Sinha said so far the subsidy burden was only Rs 200 crore and 13 lakh seats have been added.&lt;/p&gt;
-
-&lt;p&gt;Pointing out that regional air connectivity was both pro-poor and pro-markets, he said that this twin objective had been met by offering seats at Rs 2,500 per seat per hour of flying and reducing the cost of flying by bringing down the costs of ATF and service charges.&lt;/p&gt;
-
-&lt;p&gt;Regarding Bagdogra airport in West Bengal, he said talks were on for getting land with the state government for building a new modern terminal. He said that all greenfield airports would be built through the PPP route.&lt;/p&gt;
-
-&lt;p&gt;Regarding unruly behaviour while flying it is expected that both passengers and the cabin crew would adhere with the laid-down guidelines, he said.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How To Avail 100% Cashback In Jio&#39;s New Offer For JioFi</title>
-      <link>http://aadhaarcardnews.in/jios-new-exchange-offer-buy-jiofi-for-rs-1999/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/jios-new-exchange-offer-buy-jiofi-for-rs-1999/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Reliance Jio is offering up to 100 per cent cash back (10 top-up vouchers worth Rs 201 each) on JioFi device if you buy it with exchange of your old dongle.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;After &amp;ldquo;Dhan Dhana Dhan&amp;rdquo; offer, newcomer Reliance Jio has launched new offers to attract dongle, data card and wifi router users. The Mukesh Ambani-owned telecom venture is offering up to 100 per cent cash back (10 top-up vouchers worth Rs 201 each) on JioFi device if you buy it with exchange of your old dongle. If you do not want to avail the exchange facility, then you will get free data worth Rs 1,005 (5 top-up vouchers worth Rs 201 each) or nearly 50 per cent cash back on the JioFi device value of Rs 1,999. However, this offer is applicable only if you buy the JioFi device from Jio.com website.&lt;/p&gt;
-
-&lt;p&gt;Here are the steps you need to follow to avail the offer:&lt;/p&gt;
-
-&lt;p&gt;-First you need to buy the JioFi router from the Jio.com website by paying Rs 1,999. You can also avail an equated monthly installment (EMI) facility to buy this device.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;After buying the device online, you need to visit a Jio Store with the original invoice, JioFi Box and your old dongle if you want to avail the exchange facility (See the list of old dongles eligible for exchange offer). You also need to carry original and copy of Proof of Address (POA), Proof of Identity (POI), and a passport size colour photograph. For availing Jio SIM through eKYC, a local Aadhaar card is must.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;After availing the Jio SIM, which will be used in the device, you need to do a recharge of Rs 408 (Rs 309+Rs 99) or Rs 608 (Rs 309+Rs 99) for availing the Jio Prime membership along with Jio Dhan Dhana Dhan offer.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Post Jio Dhan Dhana Dhan offer, customer has to recharge with minimum Rs. 149 and above to be eligible for free vouchers of Rs 201, which gives 5GB of 4G data.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Post expiry of Jio Dhan Dhana Dhan offer period, which is for 84 days, you will get free 4G data worth up to Rs. 2,010 (10 vouchers worth Rs. 201 each) if you had availed the exchange offer. Customers will be entitled for 5GB of 4G data worth Rs 201 top up with each recharge (up to 10 recharges) done before March 31, 2018.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you do not avail the exchange offer, then post expiry of Jio Dhan Dhana Dhan offer period, you will get free 4G data worth up to Rs. 1005 (5 vouchers worth Rs. 201 top up). Customers will be entitled for 5GB of 4G data worth Rs 201 top up with each recharge (up to 5 recharges) done before March 31, 2018.&lt;/p&gt;
-
-&lt;p&gt;The offer is applicable under both pre-paid and postpaid plans&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>India&#39;s Pension Fund To Go Digital On Payments</title>
-      <link>http://aadhaarcardnews.in/indias-pension-fund-to-go-digital-on-payments/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/indias-pension-fund-to-go-digital-on-payments/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The EPFO has over four crore subscribers and receives 1 crore claims every year.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The labour ministry has amended the social security schemes run by the retirement fund body EPFO to enable it to make all payments &amp;ndash; pension, provident fund and insurance &amp;ndash; to members electronically. &amp;ldquo;The labour ministry has amended the schemes run by the EPFO by a notification. This will enable the Employees&amp;rsquo; Provident Fund Organisation (EPFO) to make all payments like EPF and pension through digital mode,&amp;rdquo; an official said.&lt;/p&gt;
-
-&lt;p&gt;It was provided in the schemes run by the EPFO that the body can make payments to its subscribers through various modes like money order, cheques or electronically. The official said, &amp;ldquo;The scheme has been completely amended and the provision of making payments through money order or cheques has been omitted from the schemes. Thus all payments would be made through electronic mode.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Explaining further, the official said, &amp;ldquo;Though the EPFO had been making 98 per cent of its payments through electronic mode, there were some field offices which were using other modes like cheque and money orders.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;The official also informed that the decision to go 100 per cent digital for payments, was taken after some complaints were received for ensuring complete transparency. The EPFO has over four crore subscribers and receives 1 crore claims every year including that of EPF withdrawal, pension fixation and insurance claims.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test To Check Call Drops Likely From This Month: TRAI</title>
-      <link>http://aadhaarcardnews.in/test-to-check-call-drops-likely-from-this/</link>
-      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/test-to-check-call-drops-likely-from-this/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Independent drive tests are going to begin. Actually, there was some gap (problem) which has been removed&amp;hellip;they should start probably from this month on,&amp;rdquo; Trai Chairman RS Sharma said.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Telecom regulator Trai is likely to resume from this month its independent drive tests to check call drops and service quality of operators, after a gap of more than five months.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Independent drive tests are going to begin. Actually, there was some gap (problem) which has been removed&amp;hellip;they should start probably from this month on,&amp;rdquo; Trai Chairman RS Sharma told PTI.&lt;/p&gt;
-
-&lt;p&gt;While the telecom operators submit performance monitoring reports to the Telecom Regulatory Authority of India (Trai) regularly, the regulator also undertakes audit and assessment of service quality through independent agencies.&lt;/p&gt;
-
-&lt;p&gt;The agencies conduct sample &amp;lsquo;drive tests&amp;rsquo; across various cities in the country, as part of audit and assessment of the operators&amp;rsquo; performance.&lt;/p&gt;
-
-&lt;p&gt;The independent drive tests are distinct from operator-assisted tests, Sharma said.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;We were doing drive tests in 11-12 cities, we will be doing it in more cities (this time). This will be different from the operator-assisted tests,&amp;rdquo; he added.&lt;/p&gt;
-
-&lt;p&gt;The operator-assisted drive test captures real-time data to monitor the level of call drops and voice quality, similar to Trai&amp;rsquo;s independent drive tests.&lt;/p&gt;
-
-&lt;p&gt;However, unlike independent drive tests that are conducted by the regulator itself, the &amp;lsquo;operator-assisted&amp;rsquo; tests are conducted in co-ordination with telecom service providers.&lt;/p&gt;
-
-&lt;p&gt;The operator-assisted tests, a new concept, involves the telecom firms&amp;rsquo; equipment and costs, with the regulator monitoring and supervising the entire process.&lt;/p&gt;
-
-&lt;p&gt;That said, all drive tests &amp;ndash; be it independent or operator-assisted tests &amp;ndash; assess the performance of networks on various quality benchmarks, including call set-up success rate, call drop, blocked calls and Radio Frequency (RF) coverage.&lt;/p&gt;
-
-&lt;p&gt;The last round of independent drive tests were conducted by Trai in Amritsar, Delhi, Hyderabad, Bhopal, Chandigarh, Mumbai, Lucknow, Kanpur, Ahmedabad, Ranchi, Darjeeling, Sikkim and Trivandrum in 2016.&lt;/p&gt;
-
-&lt;p&gt;During the last few months that Trai did not undertake independent tests, the operator-assisted tests were conducted in cities including Mathura (UP-West circle), Jaisalmer, (Rajasthan), Ujjain (Madhya Pradesh) and Mangalore (Karnataka) and others.&lt;/p&gt;
-
-&lt;p&gt;Both the regulator and the Department of Telecom (DoT) have been keeping a vigil on service quality issues such as call drops and call failures through initiatives like drive tests and automated call system.&lt;/p&gt;
-
-&lt;p&gt;Last year, when instances of call drops spiked, the government and the regulator made a co-ordinated effort to tackle the issue through deliberations with the industry.&lt;/p&gt;
-
-&lt;p&gt;The Telecom Department has set up an IVRS or automated call system, which makes random calls to subscribers to check status of call drops.&lt;/p&gt;
-
-&lt;p&gt;As part of efforts to keep the call quality in check, the Trai plans to roll-out, by the month-end, an app that will enable subscribers to rate the service quality of a phone call, once the call is complete. The data will, thereafter, be analysed by the regulator.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Apply For a Passport At A Post Office</title>
-      <link>http://aadhaarcardnews.in/apply-for-a-passport-at-a-post-office/</link>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/apply-for-a-passport-at-a-post-office/</guid>
-      <description>&lt;p&gt;&lt;em&gt;86 post offices have already started work so that people can apply for passports there, Shashi Tharoor said.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Congress leader Shashi Tharoor, who led a 15-member delegation of the Parliamentary Standing Committee on External Affairs here, today stated that passports could be applied from post offices shortly. During their stay in the city, the parliamentary committee members visited the Amritsar Passport office, where Tharoor interacted with passport seekers besides holding discussions with the officials at the passport office.&lt;/p&gt;
-
-&lt;p&gt;Talking to media, the senior Congress leader said there was a need to upgrade all post offices in the country with latest infrastructure since there was &amp;ldquo;vast availability of post offices&amp;hellip;one can find it in every nook and corner of the country, even in remote villages.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;He said passports could be applied from post offices shortly, adding around 86 post offices have already started work in this regard.&lt;/p&gt;
-
-&lt;p&gt;The delegation, including eight MPs, paid obeisance at the sanctum sanctorum of the Golden Temple here. They also visited the historic Jallianwala Bagh, where they paid tributes to the martyrs who had sacrificed their lives for the freedom of the nation.&lt;/p&gt;
-
-&lt;p&gt;The delegation thereafter visited the Integrated Check Post (ICP) Attari/Wagah border where they held a meeting with the Custom and BSF officials in order to have a &amp;ldquo;first hand information with regard to the required infrastructure at ICP, import/export activities with Pakistan and problems faced by the officials.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;The members also witnessed the evening beating retreat ceremony at Wagah border.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Rail Reservation System, Vikalp:10 Things To Know</title>
-      <link>http://aadhaarcardnews.in/new-rail-reservation-system-vikalp-from-april-10-things-to-know/</link>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/new-rail-reservation-system-vikalp-from-april-10-things-to-know/</guid>
-      <description>&lt;p&gt;The Ministry of Railways has announced the scaling up of a new reservation system called &amp;lsquo;Vikalp&amp;rsquo;, or alternate train accommodation scheme (ATAS), from April 1, 2017. Under the Vikalp scheme, wait-listed passengers can avail the opportunity of travelling in Rajdhani, Shatabdi or other premium/special trains even if they have booked tickets in other mail/express trains for the same destinations - at no extra cost. The Vikalp scheme aims to utilise vacant berths in many premier trains in all major routes. Currently, Railways is running the scheme on a pilot basis on some routes.&lt;/p&gt;
-
-&lt;p&gt;Here are 10 things to know about the Vikalp scheme:&lt;/p&gt;
-
-&lt;p&gt;1) The Vikalp scheme will be initially available for e-tickets only.&lt;/p&gt;
-
-&lt;p&gt;2) Under this scheme, wait-listed passengers will be given a choice to opt for the Vikalp scheme.&lt;/p&gt;
-
-&lt;p&gt;3) Vikalp-opted passengers who remain fully wait-listed after charting will only be considered for allotment in the alternate train.&lt;/p&gt;
-
-&lt;p&gt;4) No extra charges will be taken from passenger or any refund shall be provided for difference of fare.&lt;/p&gt;
-
-&lt;p&gt;5) Passengers once provided alternate accommodation in alternate train will be treated as normal passengers in alternate train and will be eligible for upgradation.&lt;/p&gt;
-
-&lt;p&gt;6) The Railways said that the Vikalp scheme will optimise berth utilisation across all trains.&lt;/p&gt;
-
-&lt;p&gt;7) Wait-listed passengers who opt for the Vikalp scheme should check PNR status after charting.&lt;/p&gt;
-
-&lt;p&gt;8) Wait-listed passengers of original train will not be allowed to board the original train if allotted alternate accommodation.&lt;/p&gt;
-
-&lt;p&gt;9) The Vikalp-opted passengers who have been provided accommodation in the alternate train will not figure in the wait-listed charts of their original train.&lt;/p&gt;
-
-&lt;p&gt;10) When a Vikalp-opted passenger opts to cancel, after he/she has been given an alternate accommodation, he/she will be treated as a confirmed passenger and the cancellation rules will apply accordingly.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>आधार को संजीवनी बूटी की तरह पेश कर रही सरकार</title>
-      <link>http://aadhaarcardnews.in/aadhaar-linking-only-curb-pan-card-duplication/</link>
-      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/aadhaar-linking-only-curb-pan-card-duplication/</guid>
-      <description>&lt;p&gt;आधार को इनकम टैक्स के पर्मानेंट अकाउंट नंबर (PAN) के साथ जोड़ना जरूरी करने के सरकार के कदम का विरोध कर रहे लोगों ने सुप्रीम कोर्ट से कहा कि सरकार आधार को सभी बुराइयों के लिए संजीवनी बूटी के तौर पर पेश कर रही है। आधार को PAN के साथ जोड़ने के लिए इनकम टैक्स एक्ट में संशोधन को चुनौती देने वाली याचिकाओं की सुनवाई कर रही दो जजों की बेंच से सीनियर ऐडवोकेट अरविंद पी दातार ने कहा, &amp;lsquo;आधार उन हर्बल दवाओं में से एक बन गया है, जो सभी का उपचार कर सकती हैं&amp;hellip;आतंकवाद, ब्लैक मनी।&amp;rsquo;&lt;/p&gt;
-
-&lt;p&gt;इस संशोधन के जरिए 1 जुलाई से आधार कार्ड से लिंक्ड न होने वाला PAN अवैध हो जाएगा। सुप्रीम कोर्ट ने गुरुवार को इस पर अपना फैसला सुरक्षित रखा। इससे पहले हुई सुनवाइयों में सरकार ने कानून का पक्ष लेते हुए इस बात को गलत बताया था कि इस कदम से प्रिवेसी को खतरा होगा। दातार ने गुरुवार को सरकार के इस नजरिए पर सवाल उठाया कि आधार और PAN को लिंक करने से ब्लैक मनी पर रोक लगेगी। उनका कहना था, &amp;lsquo;इससे पैन कार्ड के डुप्लिकेशन पर रोक लगेगी, ब्लैक मनी पर नहीं।&amp;rsquo;&lt;/p&gt;
-
-&lt;p&gt;उन्होंने कहा, &amp;lsquo;सरकार के 2005 के डेटा के अनुसार केवल 0.4 पर्सेंट PAN कार्ड डुप्लिकेटेड हैं और इसे देखते हुए इस तरह का कदम उठाना उचित नहीं है। 0.4 पर्सेंट के लिए 99.6 पर्सेंट को परेशान करने का क्या मतलब है? इस बदलाव की जरूरत दिखाने वाला नया डेटा कहां है?&amp;rsquo; उनकी दलील थी कि नए सिस्टम से वे छोटे कारोबारी बर्बाद हो जाएंगे जिनके पास किसी कारण से आधार या PAN नहीं होगा। उन्होंने कहा कि इन दोनों को लिंक न करने वाले लोग अपना इनकम टैक्स रिटर्न नहीं भर सकेंगे और इस वजह से उन्हें भारी पेनल्टी चुकानी पड़ सकती है।&lt;/p&gt;
-
-&lt;p&gt;दातार ने कहा कि कानून में इस तरह के महत्वपूर्ण बदलाव को लेकर संसद में कोई बहस नहीं की गई और न ही इसे एक कमेटी के पास भेजा गया है। उन्होंने बताया कि फाइनेंस बिल पर केवल एक सामान्य चर्चा हुई है। उन्होंने सरकार पर आधार को चरणों में नागरिकों पर थोपने का आरोप लगाया। उनका कहना था कि कानून में कोई भी बदलाव आधार ऐक्ट में संशोधन के जरिए किया जाना चाहिए था, इनकम टैक्स ऐक्ट में नहीं।&lt;/p&gt;
-
-&lt;p&gt;याचिकाकर्ताओं ने दलील दी थी कि फिंगरप्रिंट और आइरिस स्कैन लेने वाले आधार को PAN के साथ जोड़ने से व्यक्तियों के शरीर को लेकर अधिकार का उल्लंघन हुआ है। हालांकि, इसे लेकर सरकार के वकील ने पिछले सप्ताह कहा था कि व्यक्ति का शरीर को लेकर अधिकार संपूर्ण नहीं है। सीनियर एडवोकेट सलमान खुर्शीद ने सरकार के इस नजरिए के विरोध में कहा कि कुछ मूल मानवाधिकारों को छीना नहीं जा सकता।&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Income Tax Department has launched a massive hunt for black money</title>
-      <link>http://aadhaarcardnews.in/gold-to-shell-companies-inside-the-tax-departments-hunt/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/gold-to-shell-companies-inside-the-tax-departments-hunt/</guid>
-      <description>&lt;p&gt;The massive hunt for undeclared cash launched across the country post demonetisation has revealed that these was either converted into gold or routed through shell companies to make it legal tender, IT sleuths have told Indo-Asian News Service.&lt;/p&gt;
-
-&lt;p&gt;Income Tax officials said black money holders avoided the bank-deposit route because they wanted to conceal their identities and somehow had &amp;ldquo;managed to get many jewellers&amp;rdquo; to convert their unaudited cash into gold.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;They bought gold and jewellery from jewellers across the cities on November 8 (the night Prime Minister Narendra Modi announced the demonetisation of Rs 500 and Rs 1,000 currency notes from midnight) and, thereafter. Jewellers camouflaged the identities of the actual buyers and offered split bills,&amp;rdquo; an Income Tax official, who was part of the investigations, told IANS on condition of anonymity.&lt;/p&gt;
-
-&lt;p&gt;According to him, jewellers saw in demonetisation an opportunity to ramp up their sales and thought &amp;ldquo;they could get away&amp;rdquo; by showing these amounts as sales.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Jewellers offered a platform to convert unreported cash into gold,&amp;rdquo; the official said, adding that split bills were below the value of Rs 2 lakh, the threshold above which buyers have to provide the permanent account number (PAN) issued by the income tax department.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;The buyers&amp;rsquo; lists provided by the jewellers were false. After verification, it emerged that many of the buyers were financially weak and not in a position to spend such huge amounts shown in the invoices,&amp;rdquo; the official said.&lt;/p&gt;
-
-&lt;p&gt;Taxmen tried to find an answer to a common question: How did jewellers meet the huge spurt in demand following the announcement of demonetisation, particularly after the festival season?&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;We found many of these sales were booked as advance collection for future sales. Due to preceding sales during Dhanteras and Diwali, jewellers had a stock crunch and they delivered gold later,&amp;rdquo; another IT official told IANS, asking not to be identified.&lt;/p&gt;
-
-&lt;p&gt;Taxmen said they have stumbled upon records which suggested many shops &amp;ndash; as many as 90 per cent across cities &amp;ndash; were closed at the time of the demonetisation announcement and sales at the day&amp;rsquo;s closing had been reported.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Still, we found sales were registered in the accounting system either on November 8 or a date prior to that after the closing sales were reported. These sales were manipulated,&amp;rdquo; another IT official said, also requesting anonymity.&lt;/p&gt;
-
-&lt;p&gt;Sankar Sen, Chairman and MD, Senco Gold Ltd, which was one of the jewellery houses under the I-T department scanner, told IANS: &amp;ldquo;We keep records of all buyers on the basis of the names and contacts provided by the customers. We cooperated with officials and provided all the documents, including the CCTV footage that we had.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;It is difficult for jewellers to verify whether the customers have provided a legitimate identity or not, particularly when the sale value is less than Rs 2 lakh,&amp;rdquo; he said.&lt;/p&gt;
-
-&lt;p&gt;The hunt for black money by the IT officials picked up after November 29 as they waited for some time to collect information from the Central Board of Direct Taxes (CBDT) or other agencies about the movement of funds.&lt;/p&gt;
-
-&lt;p&gt;Asked how taxmen identified jewellers, an official told IANS: &amp;ldquo;The first set of information showed that jewellers deposited huge amounts of money into banks. Then, we went after jewellers.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;The IT sleuths were able to identify legitimate transactions, easily. &amp;ldquo;We also had given options to the jewellers to disclose the name of actual buyers or declare that the amount is your money,&amp;rdquo; the official said, pointing out that such moves proved successful.&lt;/p&gt;
-
-&lt;p&gt;Many actual buyers and jewellers contributed to the Pradhan Mantri Garib Kalyan Yojana (PMGKY), an amnesty scheme to declare unreported wealth.&lt;/p&gt;
-
-&lt;p&gt;Had a robust and quick information-sharing system among state and central agencies been in place, the hunt for black money would have been more effective, the officials lamented.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;A compilation of unique features found in transactions post-demonetisation across states is expected soon,&amp;rdquo; an IT official said.&lt;/p&gt;
-
-&lt;p&gt;According to the Union Finance Ministry, the CBDT has detected undisclosed income of over Rs 9,334 crore between November 9, 2016, and February 28 this year.&lt;/p&gt;
-
-&lt;p&gt;Under Operation Clean Money (OCM), more than 60,000 persons, including 1,300 high-risk persons, have been identified for investigation into claims of excessive cash sales after demonetisation was announced.&lt;/p&gt;
-
-&lt;p&gt;According to officials, shell companies provided a strong support system for black money after demonetisation.&lt;/p&gt;
-
-&lt;p&gt;The officials found dummy directors of these companies included a cancer patient who signed documents for a Rs 10,000 monthly fee or charges of Rs 200 for every signature.&lt;/p&gt;
-
-&lt;p&gt;The officials said reporting of cash seizures was relatively less in Kolkata because of the existence of the shell companies as an established channel to stash ill-gotten money.&lt;/p&gt;
-
-&lt;p&gt;Explaining how active the channel was, the official said: &amp;ldquo;Many cash handlers with whom we interacted told us that the money does not stay for more than half-an-hour at a particular point.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Shell companies were also used as instruments to buy bullion. &amp;ldquo;We found invoices for bullion sales were generated against such companies while actual beneficiaries received the bullion.&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
