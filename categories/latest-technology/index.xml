@@ -8,6 +8,23 @@
     <atom:link href="http://aadhaarcardnews.in/categories/latest-technology/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Antivirus firm warns of cyberattacks on home appliances</title>
+      <link>http://aadhaarcardnews.in/antivirus-firm-warns-of-cyberattacks-on-home-appliances/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/antivirus-firm-warns-of-cyberattacks-on-home-appliances/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Avast, the company behind the leading antivirus software, warned today against attacks on home appliances connected to the internet, calling hackers targeting home routers a major threat to consumers.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Avast, the company behind the leading antivirus software, warned today against attacks on home appliances connected to the internet, calling hackers targeting home routers a major threat to consumers. “It’s a trivial thing to do and there’s nothing the user can do to fix it, other than to throw the router away and put in a new router,” Avast chief executive Vincent Steckler told reporters. Avast chief technology officer Ondrej Vlcek said that more and more people were using internet-enabled appliances which he described as “a total nightmare when it comes to security”.&lt;/p&gt;
+
+&lt;p&gt;Vulnerable appliances include TV sets, audio systems, coffee machines and toys, according to the Prague-based company, which every month registers 444 million users and prevents 3.5 billion malware attacks and 500 million visits to harmful websites. In February, London police arrested a Briton suspected of staging a cyberattack on household routers run by Deutsche Telekom in November 2016, which knocked an estimated million German households offline.&lt;/p&gt;
+
+&lt;p&gt;Steckler said his company had hacked into a router at a recent show in the United States to demonstrate the harm such attacks can do. Avast changed the router’s firmware, took control of a TV set and made it play a Barack Obama speech over and over. “Even if you turn off the TV, the router turns the TV back on and the user can’t see anything other than the Obama speech,” Steckler said, adding that the hacker could then hold the TV for ransom.
+“I know most people, especially Americans, care much more about their TV than they do about their data. They’d probably be much more willing to pay ransom for it,” he said, chuckling. Internet security became a hot topic last Friday when a ransomware attack hit more than 300,000 computers worldwide, affecting the likes of Britain’s National Health Service, US package delivery giant FedEx and Germany’s Deutsche Bahn rail network.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Aadhaar Data Safe From Cyber Attacks Assures Aadhaar Body Chairman</title>
       <link>http://aadhaarcardnews.in/citizens-personal-data-safe-from-cyber-attacks-assures/</link>
       <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
@@ -481,40 +498,6 @@ Following the attack, computers that were functioning were shut down as precauti
 &lt;p&gt;&amp;ldquo;We have sought reports from police stations on what kind of problem they have faced with their computer with regards to data. We will analyse the report and take corrective actions accordingly,&amp;rdquo; said SCRB SP Ashok Kumar.&lt;/p&gt;
 
 &lt;p&gt;Meanwhile, anti-virus software was being installed and operating system upgraded in computers connected to GSWAN to prevent such hacking attacks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Some Indian companies pay WannaCry ransom</title>
-      <link>http://aadhaarcardnews.in/despite-legal-implication-some-companies-pay-the-ransom/</link>
-      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://aadhaarcardnews.in/despite-legal-implication-some-companies-pay-the-ransom/</guid>
-      <description>&lt;p&gt;A top executive working with an Indian conglomerate couldn&amp;rsquo;t fathom how a bill of $300 (Rs 19,000) landed up at his company for using a free Wi-Fi at a five-star hotel coffee shop. The CEO of another New Delhibased manufacturing company clicked on an unknown link — a mistake that would come back to haunt him.&lt;/p&gt;
-
-&lt;p&gt;The laptops of the executive and the CEO were compromised by ransomware WannaCry, the malicious fast-spreading virus that has confounded cyber security experts around the world. The malware demands $300 in bitcoins to release the infected system and its data, causing hundreds of millions of dollars in business damage to corporations and government utilities.&lt;/p&gt;
-
-&lt;p&gt;Though lawyers and experts have been advising companies to not pay bitcoins, some Indian companies are believed to have gone ahead and paid the ransom to get their systems unlocked. &amp;ldquo;There would be some companies that may have paid the ransom in haste to retrieve their encrypted data. As of Monday morning, the hackers seem to have globally collected 23 bitcoins, which is around $41,400,&amp;rdquo; said Amit Jaju, executive director, Fraud Investigation &amp;amp; Dispute Services (FIDS), EY India.&lt;/p&gt;
-
-&lt;p&gt;Most legal experts and cybercrime experts are cautioning companies not to pay as this could also have legal implications. &amp;ldquo;PwC never recommends paying ransomware ransom — unless there is a threat to life. Doing so fuels the ransomware economy, funding development of additional ransomware techniques and campaigns. In many cases, we have seen that when money is paid, larger attack happens a few days or weeks later,&amp;rdquo; said Sivarama Krishnan, leader -cyber security at PwC India.&lt;/p&gt;
-
-&lt;p&gt;A Twitter handle, @actual_ransom, that describes itself as &amp;ldquo;a bot that is watching the bitcoin wallets tied to WannaCry ransomware attack&amp;rdquo; is also providing live updates of bitcoins paid by companies globally. &amp;ldquo;While we are monitoring this Twitter handle, you can&amp;rsquo;t trust the authenticity of this,&amp;rdquo; said a cybercrime expert with a consultancy.&lt;/p&gt;
-
-&lt;p&gt;Reports of corporations crippled by the attack are pouring in three days after the hackers stunned the world and showed the impotence of cyber security networks. The ransomware locked about 200 computers of a Mumbai-headquartered company, which did not have any backup for its crucial income tax data.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;The company worried that the income tax department would come after it if it didn&amp;rsquo;t have the data readily available,&amp;rdquo; said a person in the know. Legal experts are cautioning companies against paying the ransom as this could land them in trouble.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;While some companies may consider making payment to obtain the decryption key to unlock their computers that have been locked by the WCry virus, one must consider the legal implications of this action,&amp;rdquo; said Tushar Ajinkya, partner, DSK Legal, a law firm. &amp;ldquo;In the event it is concluded that the actions of the ransomware WCry in demanding payment for release of the encrypted data tantamount to extortion, then in addition to a FEMA violation, facilitators and recipients of such payment may also attract provisions of the PMLA,&amp;rdquo; Ajinkya said.&lt;/p&gt;
-
-&lt;p&gt;Many companies are believed to have paid the bitcoins with the help of third-party service providers.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Typically, the process involves creating a bitcoin wallet and then making the payment. However, this should ideally be done in consultation with legal, forensic and cyber expert advisors as there tends to be little or no guarantee of regaining access to the data once the ransom is paid,&amp;rdquo; said Jaju of EY.&lt;/p&gt;
-
-&lt;p&gt;This is not the first time a ransomware has attacked India Inc. ET on January 11 reported that hackers seized control of computers at three banks and a pharmaceutical company and then demanded a ransom in bitcoins for the decryption keys to unfreeze them.&lt;/p&gt;
-
-&lt;p&gt;In most cases, Indian companies do not wish to report the cases or file a complaint with the investigative authorities.&lt;/p&gt;
-
-&lt;p&gt;Even Indian banks, which are required to make a mandatory disclosure to the regulator of any cyberattack, seldom do this.&lt;/p&gt;
 </description>
     </item>
     
