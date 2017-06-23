@@ -1,65 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest news </title>
-    <link>http://aadhaarcardnews.in/tags/savings-account/index.xml</link>
-    <description>Recent content on Latest news </description>
+    <title>Savings Account on Latest news </title>
+    <link>http://aadhaarcardnews.in/tags/savings-account/</link>
+    <description>Recent content in Savings Account on Latest news </description>
     <generator>Hugo -- gohugo.io</generator>
-    <atom:link href="http://aadhaarcardnews.in/tags/savings-account/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://aadhaarcardnews.in/tags/savings-account/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>why Aadhaar is being challenged in the Supreme Court</title>
       <link>http://aadhaarcardnews.in/aadhaar-pay-vs-bhim-app-suits-making-payments/</link>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/aadhaar-pay-vs-bhim-app-suits-making-payments/</guid>
-      <description>&lt;p&gt;Both Apps uses Unified Payments Interface (UPI) technology to transfer money between any two individuals and between an individual and a merchant.&lt;/p&gt;
-
-&lt;p&gt;Navneet Dubey
-Moneycontrol News&lt;/p&gt;
-
-&lt;p&gt;Are you considering using one of the mobile payment apps launched by the government recently? If so, you may be confused on whether you should use the Aadhaar Payment App or Bharat Interface for Money (BHIM)?&lt;/p&gt;
-
-&lt;p&gt;Well, there are specific features of each of these apps which differentiate them which you should be aware of.&lt;/p&gt;
-
-&lt;p&gt;To start with, the Aadhaar app allows to make your payments through a thumb impression while BHIM through its ‘virtual address’ facility make it possible to transfer payments from one individual to another without disclosing one’s account number on either side.&lt;/p&gt;
-
-&lt;p&gt;However, in both the cases, payments can be done from any bank account to any merchant or an individual who have registered their bank account with their Aadhaar number and have also registered themselves with the apps respectively.&lt;/p&gt;
-
-&lt;p&gt;We list out the features of each of these apps, how they work and what significance they carry while making the payment from one source to another.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;What is Aadhaar Pay App?&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This digital payment application is made for merchants to accept payments from a customer using their Aadhaar number. Merchants need to download the app from their app stores and connect their smartphones to the biometric scanning device to accept payments from customers. The customer will then be able to make digital payments even if they don’t have a smartphone, a debit card or credit card.&lt;/p&gt;
-
-&lt;p&gt;On the merchants’ side, to use the app they are required to register their bank accounts and their own details on the Aadhaar payments app before receiving any money. Once the e-KYC process is validated, they can use the app to carry out the transaction.&lt;/p&gt;
-
-&lt;p&gt;Customers, on the other hand, need to have Aadhaar-linked bank account to process their payment successfully. If in case the Aadhaar number is not registered with the bank account you will not be able to make payment through this application.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Features of the BHIM App&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Through BHIM, you can directly make payments from one bank account to another using unified payments interface (UPI). The payments can be made from one individual to another using virtual address assigned to the respective bank.&lt;/p&gt;
-
-&lt;p&gt;You can also send money through IFSC and MMID Code to other individual, users who do not even have a UPI-linked bank account or do not carry a smartphone with them. To send or to request for money, you can simply login to your BHIM app through mPIN and then type in the mobile number or virtual payment address (VPA) address to make the transfer of payments easily. This way you do not have to remember or re-enter anyone’s account number while doing any number of transactions within the same account.&lt;/p&gt;
-
-&lt;p&gt;BHIM app is integrated with UPI mechanism via USSD code which helps in facilitating financial transactions even in offline mode through your phone, even if it not a smartphone. So, BHIM app also makes it possible to do transaction even if you do not have an internet facility. The app also allows you to make the transfer of payments using QR code for a fixed amount of money, which the merchant or an individual can scan and further make the transaction successful.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Key Highlights&lt;/em&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;–Payments can be done to and from multiple bank accounts using these apps&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;–BHIM App uses 4 modes to make payment facility – VPA, QR code, IFSC and MMID code&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;–Both Apps uses UPI technology to transfer money between any two individuals&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;–The apps are available on all the digital app-stores offered by various operating systems&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;–Both apps are highly secured and uses mPIN password facility&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;–Both customers and merchants must have Aadhaar-linked bank account&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Both Apps uses Unified Payments Interface (UPI) technology to transfer money between any two individuals and between an individual and a merchant.
+Navneet Dubey Moneycontrol News
+Are you considering using one of the mobile payment apps launched by the government recently? If so, you may be confused on whether you should use the Aadhaar Payment App or Bharat Interface for Money (BHIM)?
+Well, there are specific features of each of these apps which differentiate them which you should be aware of.</description>
     </item>
     
     <item>
@@ -68,18 +28,8 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/sbi-to-use-aadhaar-for-verification-in-recruitment-process/</guid>
-      <description>&lt;p&gt;&lt;em&gt;State Bank of India or SBI plans to introduce Aadhaar to verify the identity of candidates across its recruitment processes effective July 1.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;State Bank of India or SBI plans to introduce Aadhaar to verify the identity of candidates across its recruitment processes effective July 1. India&amp;rsquo;s largest bank SBI, in a notice dated June 2, said: &amp;ldquo;Ascertaining the identities of candidates is critical for fair conduct of recruitment process and prevention of impersonation.&amp;rdquo; The Aadhaar number will be used at discretion of the bank to match the biometric information taken at the time of the examination, interview, medical fitness test or reporting for joining with that stored on the Aadhaar server to establish the identity of the candidate, the bank further said. Aadhaar is a 12-digit unique number that identifies residents based on their biometrics. Aadhaar data is managed by UIDAI or Unique Identification Authority of India in its data centres located in different parts of the country.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s the full text of SBI&amp;rsquo;s notice:&lt;/p&gt;
-
-&lt;p&gt;State Bank of India (SBI) propose to introduce the scheme of verifying the identity of candidates applying for all its recruitment processes through Aadhaar cards w.e.f. 1 st July 2017.&lt;/p&gt;
-
-&lt;p&gt;Ascertaining the identities of candidates is critical for fair conduct of recruitment process and prevention of impersonation. The provisions of Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (the Aadhaar Act 2016) and the Regulations under the Act have come into effect on various dates as published in the Official Gazette. Pursuant to Section 57 of the Aadhaar Act 2016, SBI proposes to verify the identity of the candidates through Aadhaar number in all its recruitment processes w.e.f. 1st July 2017. Accordingly, while applying for appointment in SBI it will be mandatory to furnish the 12 digit Aadhaar No. (or 28 digit Aadhaar enrolment ID in case the Aadhaar has been applied for, but not received). The Aadhaar number will be used at discretion of SBI to match the biometric information taken through biometric attendance system at the time of the examination/ interview/ medical fitness test/ reporting for joining with that stored on the Aadhaar server to establish the identity of the candidate.&lt;/p&gt;
-
-&lt;p&gt;The above provision is applicable in all States and Union Territories of India except the States of Jammu &amp;amp; Kashmir, Meghalaya and Assam. Applicants from these States may use voter ID, passport, driving license or any other valid document, as may be specified by SBI in the relevant recruitment notice, as proof of identity for future recruitments in SBI.&lt;/p&gt;
-</description>
+      <description>State Bank of India or SBI plans to introduce Aadhaar to verify the identity of candidates across its recruitment processes effective July 1.
+State Bank of India or SBI plans to introduce Aadhaar to verify the identity of candidates across its recruitment processes effective July 1. India&amp;rsquo;s largest bank SBI, in a notice dated June 2, said: &amp;ldquo;Ascertaining the identities of candidates is critical for fair conduct of recruitment process and prevention of impersonation.</description>
     </item>
     
     <item>
@@ -88,18 +38,9 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/aadhaar-must-get-government-co-contribution-availing-atal-pension-yojana/</guid>
-      <description>&lt;p&gt;The finance ministry on Monday said their subscribers of the Atal Pension Yojana (APY) will have to link their Aadhaar to their accounts for availing up to Rs 1,000 government’s co-contribution.&lt;/p&gt;
-
-&lt;p&gt;Any individual who is eligible to receive benefits under the APY will have to furnish proof of possession of Aadhaar number or undergo enrolment under Aadhaar authentication, the ministry said in a statement.&lt;/p&gt;
-
-&lt;p&gt;Pension regulator PFRDA has identified nearly 12.35 lakh subscribers who are eligible for government co-contribution for an amount up to Rs 1,000 for the financial year 2016-17, which will be released to the eligible subscribers’ savings bank accounts which are seeded with Aadhaar — the 12 digit unique identification number.&lt;/p&gt;
-
-&lt;p&gt;“An APY subscriber will have to get the Aadhaar number recorded in his or her APY pension account and also in his/her savings account where the periodic pension contribution instalments are debited and government co-contribution is to be credited,” the ministry said.&lt;/p&gt;
-
-&lt;p&gt;Atal Pension Yojana, the government’s flagship social security scheme, has more than 54 lakh subscribers with an asset base of more than Rs 2,200 crore.&lt;/p&gt;
-
-&lt;p&gt;With an objective of bringing in “transparency, efficiency” and to enable beneficiaries to get their entitlement directly in a convenient and seamless manner, Aadhaar card has been constituted as the primary document in identification of the beneficiary under the Aadhaar Act.&lt;/p&gt;
-</description>
+      <description>The finance ministry on Monday said their subscribers of the Atal Pension Yojana (APY) will have to link their Aadhaar to their accounts for availing up to Rs 1,000 government’s co-contribution.
+Any individual who is eligible to receive benefits under the APY will have to furnish proof of possession of Aadhaar number or undergo enrolment under Aadhaar authentication, the ministry said in a statement.
+Pension regulator PFRDA has identified nearly 12.</description>
     </item>
     
     <item>
@@ -108,32 +49,8 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/10-things-about-draupdi-murmu-the-woman-who-could-be-indias-next/</guid>
-      <description>&lt;p&gt;With the new president of India set to be elected next month, several names are doing the rounds including those of BJP veteran Najma Heptullah and Mahatma Gandhi&amp;rsquo;s writer grandson Rajmohan Gandhi. Many say Prime Minister Narendra Modi has decided Jharkhand Governor and BJP leader Draupdi Murmu to be the party candidate.&lt;/p&gt;
-
-&lt;p&gt;Very few people know about Murmu outside eastern states. Here are 10 things to know about the woman who can be the next president of the country:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Murmu was sworn in as the first woman Governor of Jharkhand in May last year. She is also the first tribal to become the governor of a state in India.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;She comes from a Santhal tribal family in Uparbeda village in Kusumi block of Mayurbhanj district. She holds a Bachelor of Arts degree. Before joining politics, she worked as a teacher and a government clerk.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;She has been a two-time BJP MLA from Rairakhol in Mayurbhanj. She held several portfolios in the BJD-BJP coalition government between 2000 and 2004. She was given the Nilakantha Award for the best MLA in 2007 by the Odisha Legislative Assembly.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;She had lost her two sons and husband. She has one daughter who is married. In an interview after she was appointed the Governor of Jharkhand, she said, &amp;ldquo;I was completely devastated. But God has given me the strength to continue to serve the people.&amp;rdquo;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;A soft-spoken Murmu has worked away from the media glare in the tribal wing of the BJP.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Her election is going to impact the BJP&amp;rsquo;s prospects in the next Lok Sabha polls in several states with significant tribal population. Her native district, Mayurbhanj, lies on the borders of West Bengal as well as Jharkhand. She will impact tribal votes majorly in the three states while also improving the BJP prospects in Chhattisgarh and Maharashtra.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Murmu as the BJP&amp;rsquo;s choice for president can also hit the opposition unity. Many opposition parties may well have to support her candidature as they won&amp;rsquo;t like to be seen opposing a tribal. Odisha&amp;rsquo;s ruling party Biju Janata Dal (BJD) might not be able to oppose a tribal candidate from its own state.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Murmu&amp;rsquo;s election will improve the BJP&amp;rsquo;s chances of winning the upcoming assembly polls in Odisha too.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The choice of a tribal as president will boost PM Narendra Modi&amp;rsquo;s new strategy to focus on Dalit and tribal votes.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If Murmu is elected, she will be the second president from Odisha after VV Giri.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>With the new president of India set to be elected next month, several names are doing the rounds including those of BJP veteran Najma Heptullah and Mahatma Gandhi&amp;rsquo;s writer grandson Rajmohan Gandhi. Many say Prime Minister Narendra Modi has decided Jharkhand Governor and BJP leader Draupdi Murmu to be the party candidate.
+Very few people know about Murmu outside eastern states. Here are 10 things to know about the woman who can be the next president of the country:</description>
     </item>
     
     <item>
@@ -142,30 +59,10 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/rbi-introduces-new-rs-500-currency-heres-whats-different-in-new-notes/</guid>
-      <description>&lt;p&gt;The Reserve Banks of India (RBI) today announced introduction of new Rs 500 currency notes.&lt;/p&gt;
-
-&lt;p&gt;The new version will have few different aspects. The one noticeable aspect of the new currency notes is the inclusion of an inset letter &amp;ldquo;A&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Besides, in the new notes the signature of the RBI Governor will be on the reverse side.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/SdLYWuNz3Nk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;&amp;ldquo;In continuation of issuing of Rs 500 denomination banknotes in Mahatma Gandhi (new) series from time to time which are currently legal tender, a new batch of banknotes with inset letter &amp;ldquo;A&amp;rdquo; in both the number panels bearing the signature of Dr. Urjit R. Patel Governor, Reserve Bank of India; with the year of printing &amp;lsquo;2017&amp;rsquo; on the reverse, are being issued,&amp;rdquo; RBI said in a press release.&lt;/p&gt;
-
-&lt;p&gt;The design of these notes is similar in all respects to the Rs 500 banknotes in Mahatma Gandhi (New) Series, RBI added.&lt;/p&gt;
-
-&lt;p&gt;The current Rs 500 notes have inset letter E.&lt;/p&gt;
-
-&lt;p&gt;The central bank had demonetised old Rs 500 and Rs 1000 notes on November 8 last year. After that RBI introduced new Rs 500 and 2000 currency notes.&lt;/p&gt;
-
-&lt;p&gt;Last week, RBI had said that nearly 83 per cent of the currency has been remonetised and denied there was any shortage of cash in the system.&lt;/p&gt;
-
-&lt;p&gt;The data on the amount of demonetised notes returned, however, is still not available.&lt;/p&gt;
-</description>
+      <description>The Reserve Banks of India (RBI) today announced introduction of new Rs 500 currency notes.
+The new version will have few different aspects. The one noticeable aspect of the new currency notes is the inclusion of an inset letter &amp;ldquo;A&amp;rdquo;.
+Besides, in the new notes the signature of the RBI Governor will be on the reverse side.
+  &amp;ldquo;In continuation of issuing of Rs 500 denomination banknotes in Mahatma Gandhi (new) series from time to time which are currently legal tender, a new batch of banknotes with inset letter &amp;ldquo;A&amp;rdquo; in both the number panels bearing the signature of Dr.</description>
     </item>
     
     <item>
@@ -174,16 +71,8 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/vodafone-announces-new-ramzan-plans-starting-at-rs-12-details/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Vodafone also said it will offer unlimited voice calling, unlimited national roaming and 1GB data per day in plans priced at Rs 342 and Rs 442.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Telecom operator Vodafone India announced new Ramzan offers for its prepaid users. The new plans, called &amp;ldquo;Ramzan 342 and 442&amp;rdquo;, are valid for users in Karnataka, Vodafone India said in a release. Under the offer, users can avail of unlimited 2G data at Rs 5 per hour and unlimited 3G/4G data at Rs 19 per hour. They can download the Vodafone Play App, which allows them to watch Makkah and Madinah live, the release added.&lt;/p&gt;
-
-&lt;p&gt;Vodafone also said it will offer unlimited voice calling, unlimited national roaming and 1GB data per day in plans priced at Rs 342 and Rs 442. While Vodafone&amp;rsquo;s &amp;ldquo;Ramzan 342&amp;rdquo; pack comes with a validity of 28 days, the &amp;ldquo;Ramzan 442&amp;rdquo; will have a 70-day validity. The company is also offering a &amp;ldquo;Ramzan 12&amp;rdquo; pack, which facilitates calls at &lt;em&gt;Rs 30 paise per minute&lt;/em&gt; and comes with a validity of 90 days.&lt;/p&gt;
-
-&lt;p&gt;Amit Kapur, business head, Karnataka, Vodafone India said, &amp;ldquo;The holy month of Ramzan is a month of giving and doing good deeds that benefit all. As a symbol of our endeavour to bring happy times to the lives of our customers, Vodafone has introduced a choice of plans that give them the best of talk time and data, at very attractive price. Starting from unlimited 2G data at Rs 5 per hour to Vodafone Ramzan 442 that allows unlimited Local and STD calls, plus 1GB data per day, our plans have been designed to enhance the festive spirit and promote bonding with family and friends during this holy month.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Vodafone India is a wholly-owned subsidiary of British telecom company Vodafone Group Plc.&lt;/p&gt;
-</description>
+      <description>Vodafone also said it will offer unlimited voice calling, unlimited national roaming and 1GB data per day in plans priced at Rs 342 and Rs 442.
+Telecom operator Vodafone India announced new Ramzan offers for its prepaid users. The new plans, called &amp;ldquo;Ramzan 342 and 442&amp;rdquo;, are valid for users in Karnataka, Vodafone India said in a release. Under the offer, users can avail of unlimited 2G data at Rs 5 per hour and unlimited 3G/4G data at Rs 19 per hour.</description>
     </item>
     
     <item>
@@ -192,44 +81,20 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/travellers-can-now-book-railway-tickets-using-mvisa-payment-solution/</guid>
-      <description>&lt;p&gt;Rail travellers can now book tickets by mVisa payment method which allows them to scan a quick response (QR) code and pay through smartphones.&lt;/p&gt;
-
-&lt;p&gt;Users can securely link their visa debit, credit or prepaid account to the mVisa application on their smartphones and make their travel bookings by simply scanning their mVisa QR code on the Indian Railway Catering and Tourism Corporation website.&lt;/p&gt;
-
-&lt;p&gt;IRCTC, a subsidiary of the Indian Railways, is offering a promotion offer until September 4 that will give Rs 50 cashback to consumers booking their tickets through mVisa scan and pay on the IRCTC website.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;The key to our success as India&amp;rsquo;s largest e-commerce organisation has been our ability to embrace new technologies that help us drive consumer engagement across our platform,&amp;rdquo; IRCTC CMD AK Manocha said on Tuesday.&lt;/p&gt;
-
-&lt;p&gt;India is currently one of the major smartphone markets in the world, with over a billion smartphones expected to be sold in the next five years.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Considering the phenomenal penetration of smartphones in India, moving to a mobile based payment solution such as mVisa was thus a natural choice for IRCTC,&amp;rdquo; Manocha said.&lt;/p&gt;
-
-&lt;p&gt;The increasing popularity and adoption of mobile devices presents a huge opportunity for the growth of mobile-based digital commerce.&lt;/p&gt;
-
-&lt;p&gt;The mVisa payment solution on IRCTC can potentially empower millions of consumers spread across Indian cities, towns and villages, to make payments using just their smartphones from the comfort of their homes.&lt;/p&gt;
-</description>
+      <description>Rail travellers can now book tickets by mVisa payment method which allows them to scan a quick response (QR) code and pay through smartphones.
+Users can securely link their visa debit, credit or prepaid account to the mVisa application on their smartphones and make their travel bookings by simply scanning their mVisa QR code on the Indian Railway Catering and Tourism Corporation website.
+IRCTC, a subsidiary of the Indian Railways, is offering a promotion offer until September 4 that will give Rs 50 cashback to consumers booking their tickets through mVisa scan and pay on the IRCTC website.</description>
     </item>
     
     <item>
       <title>why Aadhaar is being challenged in the Supreme Court</title>
-      <link>http://aadhaarcardnews.in/why-Aadhaar-is-being-challenged/</link>
+      <link>http://aadhaarcardnews.in/why-aadhaar-is-being-challenged/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://aadhaarcardnews.in/why-Aadhaar-is-being-challenged/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Six articles that explain why Aadhaar is being challenged in the Supreme Court&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;•Aadhaar is vulnerable to identity theft because of its design and the way it is used: A centralised database, dual use as identifier and authenticator, and lack of sound legal framework are its main weaknesses.&lt;/p&gt;
-
-&lt;p&gt;•Amid the debate about privacy, the more pressing issue of exclusion has been forgotten: Exclusion due to authentication errors and deactivation have an immediate impact on millions of people across India.&lt;/p&gt;
-
-&lt;p&gt;•Haryana is making babies enrol in Aadhaar before it will issue them birth certificates: Even though the state government denies that the identity number is mandatory to obtain this document, officials on the ground admit that it virtually is.&lt;/p&gt;
-
-&lt;p&gt;•Government websites are leaking Aadhaar numbers. Who will take action against the government?: Caches of Aadhaar data are leaking regularly, yet UIDAI insists the digital identity is secure.&lt;/p&gt;
-
-&lt;p&gt;•Under the right to information law, Aadhaar data breaches will remain a state secret: Scroll.in’s queries for information were dismissed on grounds of national security and confidentiality.&lt;/p&gt;
-
-&lt;p&gt;•Who will own your data when your electronic health records are linked to Aadhaar?: The draft health privacy law will be made public to invite comments in the coming weeks, government officials say.&lt;/p&gt;
-</description>
+      <guid>http://aadhaarcardnews.in/why-aadhaar-is-being-challenged/</guid>
+      <description>Six articles that explain why Aadhaar is being challenged in the Supreme Court
+•Aadhaar is vulnerable to identity theft because of its design and the way it is used: A centralised database, dual use as identifier and authenticator, and lack of sound legal framework are its main weaknesses.
+•Amid the debate about privacy, the more pressing issue of exclusion has been forgotten: Exclusion due to authentication errors and deactivation have an immediate impact on millions of people across India.</description>
     </item>
     
     <item>
@@ -238,32 +103,8 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/indian-railways-to-cut-shatabdi-short-run-train-fares/</guid>
-      <description>&lt;p&gt;&lt;em&gt;SBI is charging Rs 5 per transaction of up to Rs 1 lakh, Rs 15 for transactions between Rs 1-2 lakh and Rs 25 for those between Rs 2 lakh and Rs 5 lakh, while HDFC Bank is proposing Rs 3 for transactions of up to Rs 25,000 and Rs 5 for those between Rs 25,000 and Rs 1 lakh.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Nearly two years after operationalisation of the Unified Payment Interface (UPI), banks have started moving to charge for peer-to-peer payments on the new platform.&lt;/p&gt;
-
-&lt;p&gt;Country&amp;rsquo;s largest lender State Bank of India has came out with charges with effect from June 1, while the second largest private sector lender HDFC Bank has also gone public with its rate structure which will be effective July 10.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;So far, no bank is charging for UPI transactions but at the same time it is at their discretion to levy a reasonable fee towards Person to Person (P2P) transactions for UPI and IMPS,&amp;rdquo; National Payments Corporation of India&amp;rsquo;s chief operating officer Dilip Asbe said in a statement.&lt;/p&gt;
-
-&lt;p&gt;A senior NPCI official explained that worldover, charges are levied for such transactions and added that in case of UPI at merchant transactions it is the merchant who pays while for P2P, it is the sender who has to pay.&lt;/p&gt;
-
-&lt;p&gt;On the transaction fees front, the critical aspect to be examined is whether there are enough number of transactions happening on UPI which establish a maturity of the platform and also the reasonableness of charges, the official added.&lt;/p&gt;
-
-&lt;p&gt;The UPI platform is averaging around one crore transactions with a value of Rs 2,900 crore per month, the NPCI official said, adding the number of transactions needs to be at least 2-3 crore per month for the charges to set in.&lt;/p&gt;
-
-&lt;p&gt;The NPCI official said there may be a review on the subject, saying there can be a meeting with bankers which can be called in the next two months to assess the situation.&lt;/p&gt;
-
-&lt;p&gt;It was, however, not immediately clear if the P2P transactions on the BHIM App launched by Prime Minister Narendra Modi, will also be chargeable.&lt;/p&gt;
-
-&lt;p&gt;When contacted, SBI&amp;rsquo;s deputy managing director Manju Agarwal acknowledged that the bank has put out a circular on UPI charges on its website, but promised to withdraw it soon.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;We are not charging for UPI transactions. The circular will be removed,&amp;rdquo; she said.&lt;/p&gt;
-
-&lt;p&gt;An HDFC Bank spokesperson was not reachable for comment, but a senior official pointed out that the charges are applicable from July 10 and there may be a review based on the outcome of such a meeting with NPCI.&lt;/p&gt;
-
-&lt;p&gt;Billed as a game changing platform in the Indian banking space, UPI was launched in April 2015 and operationalised in August same year.&lt;/p&gt;
-</description>
+      <description>SBI is charging Rs 5 per transaction of up to Rs 1 lakh, Rs 15 for transactions between Rs 1-2 lakh and Rs 25 for those between Rs 2 lakh and Rs 5 lakh, while HDFC Bank is proposing Rs 3 for transactions of up to Rs 25,000 and Rs 5 for those between Rs 25,000 and Rs 1 lakh.
+Nearly two years after operationalisation of the Unified Payment Interface (UPI), banks have started moving to charge for peer-to-peer payments on the new platform.</description>
     </item>
     
     <item>
@@ -272,30 +113,9 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/now-pay-fine-if-your-sbi-account-has-no-minimum-balance/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The monthly average balance (MAB) requirement has been increased to as high as Rs 5,000 for branches in six metros.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;State Bank of India, the country&amp;rsquo;s biggest lender, has decided to increase manifold the minimum balance required for maintaining savings account from April 1, hitting 31 crore depositors including pensioners and students.&lt;/p&gt;
-
-&lt;p&gt;The monthly average balance (MAB) requirement has been increased to as high as Rs 5,000 for branches in six metros.&lt;/p&gt;
-
-&lt;p&gt;Savings bank account holders of SBI and its five associates - which will merge with it on April 1 - will have to maintain the monthly balance or else they will invite a penalty ranging from Rs 20 (in rural branches) to Rs 100 (in metro cities).&lt;/p&gt;
-
-&lt;p&gt;State Bank of India has 31 crore savings bank accounts.&lt;/p&gt;
-
-&lt;p&gt;As of now, the monthly average balance (MAB) for a savings bank account is Rs 500 without facility of cheque book and Rs 1,000 with cheque book across the country.&lt;/p&gt;
-
-&lt;p&gt;India&amp;rsquo;s largest bank has now decided to fix separate MABs for &amp;lsquo;metro&amp;rsquo;, &amp;lsquo;urban&amp;rsquo;, &amp;lsquo;semi-urban&amp;rsquo; and &amp;lsquo;rural&amp;rsquo; areas from the beginning of next financial year.&lt;/p&gt;
-
-&lt;p&gt;The benchmark for MAB and penalties are likely to be followed by other public sector banks.&lt;/p&gt;
-
-&lt;p&gt;The monthly average balance for metro branches will be Rs 5,000 and penalty for non-maintenance of minimum balance will be between Rs 50 and Rs 100. For urban and semi-urban branches, the monthly average balance has been fixed at Rs 3,000 and Rs 2,000, respectively.&lt;/p&gt;
-
-&lt;p&gt;In case of rural branches, the minimum balance has been fixed at Rs 1,000. Breach of MAB will attract a penalty ranging between Rs 20 and Rs 50.&lt;/p&gt;
-
-&lt;p&gt;Five associates banks of SBI - State Bank of Bikaner and Jaipur (SBBJ), State Bank of Mysore (SBM), State Bank of Travancore (SBT), State Bank of Patiala (SBP) and State Bank of Hyderabad (SBH) - will merge with the parent on April 1.&lt;/p&gt;
-
-&lt;p&gt;With the merger of all the five associates, SBI is expected to become a lender of global proportions with an asset base of Rs 37 lakh crore or over $555 billion, 22,500 branches and 58,000 ATMs. It will have over 50 crore customers.&lt;/p&gt;
-</description>
+      <description>The monthly average balance (MAB) requirement has been increased to as high as Rs 5,000 for branches in six metros.
+State Bank of India, the country&amp;rsquo;s biggest lender, has decided to increase manifold the minimum balance required for maintaining savings account from April 1, hitting 31 crore depositors including pensioners and students.
+The monthly average balance (MAB) requirement has been increased to as high as Rs 5,000 for branches in six metros.</description>
     </item>
     
     <item>
@@ -304,26 +124,8 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/tax-department-identifies-18-lakh-people-with-suspicious-deposits/</guid>
-      <description>&lt;p&gt;&lt;em&gt;These people will have to reply within 10 days to avoid any notice from the tax department or further enforcement action.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The Income Tax department has identified 18 lakh people who have made &amp;lsquo;suspicious&amp;rsquo; cash deposits post demonetisation, including those having deposited over Rs 5 lakh, and will send emails and SMSes seeking explanation about their source of funds. These people will have to reply within 10 days to avoid any notice from the tax department or further enforcement action. The department on Tuesday launched &amp;lsquo;Operation Clean Money&amp;rsquo; project under which CBDT, with data analysis and profiling of assessees, will send e-communications to people whose cash deposits post November 8 note ban do not match their income.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Operation Clean Money/Swachh Dhan Abhiyan is a programming software which will be used to get answers on all the deposits made and after preliminary answers from the people. Then only, if need be, we would take legal action against those people,&amp;rdquo; Revenue Secretary Hasmukh Adhia said.&lt;/p&gt;
-
-&lt;p&gt;Central Board of Direct Taxes (CBDT) Chairman Sushil Chandra said 10 days&amp;rsquo; time would be given to people to reply to the e-communication and replies can be filed by logging on to the e-filing portal of the Income Tax department.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;In the initial phase, we are putting data of those persons who have deposited Rs 5 lakh or more and deposits between Rs 3 lakh and Rs 5 lakh of suspicious nature and who have poor tax compliance after November 8,&amp;rdquo; Chandra said.&lt;/p&gt;
-
-&lt;p&gt;Initially, this will cover 18 lakh tax payers whose data will be uploaded on e-filing portal. These people while filing reply have to explain to tax department the sources of deposit.&lt;/p&gt;
-
-&lt;p&gt;Chandra said that tax department has compiled huge data which shows that there are over 1 crore accounts where above Rs 2 lakh money have been deposited and involves unique PAN of 70 lakh persons.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;We have compared these vast data with the income profile, turnover and the various other particulars of income available in the income tax data bank. In the first phase where the deposits in account are not matching with our data, we are putting the same on our e-filing portal seeking explanation of source of income,&amp;rdquo; he said.&lt;/p&gt;
-
-&lt;p&gt;Chandra said the intention of the scheme is to avoid any harassment to the tax payer, they need not come to office and online verification would be completed.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Swachh Dhan Abhiyan is a continuous exercise to widen and deepen the tax base. All the accounts in which money has been deposited will be tracked and we have hired the data analytics and we will identify the ultimate beneficiaries even in layered accounts,&amp;rdquo; he said.&lt;/p&gt;
-</description>
+      <description>These people will have to reply within 10 days to avoid any notice from the tax department or further enforcement action.
+The Income Tax department has identified 18 lakh people who have made &amp;lsquo;suspicious&amp;rsquo; cash deposits post demonetisation, including those having deposited over Rs 5 lakh, and will send emails and SMSes seeking explanation about their source of funds. These people will have to reply within 10 days to avoid any notice from the tax department or further enforcement action.</description>
     </item>
     
     <item>
@@ -332,28 +134,8 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/indias-call-drop-problem-no-more-tricks-telecom-ministe/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Telecom Minister Manoj Sinha today said his ministry is keeping a watchful eye on all factors of call drop measurement&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Refusing to lower his guard on the issue of call drops, Telecom Minister Manoj Sinha today said his ministry is keeping a watchful eye on all factors of call drop measurement, which leaves no room for any manipulation. &amp;ldquo;We are looking at every aspect of call drop. No trick will work in this case,&amp;rdquo; Sinha told Press Trust of India in an interview.&lt;/p&gt;
-
-&lt;p&gt;A recent report from the Department of Telecom (DoT) had said call drops had come down by seven per cent in three months between December 2016 to March 2017. The minister was responding to a query on whether the DoT has taken into account the prolonged use of &amp;lsquo;radio link timeout&amp;rsquo;, a technology that prevents disconnection of calls even if there is no or weak signal. Usually, in such cases, the customer ends up disconnecting the call without it showing up as a call drop.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Not only the DoT report, but even Trai releases official report every quarter&amp;hellip; they clearly show that there is a significant reduction in call drop. However, it is a matter of continuous monitoring. Also, the manner in which BTS (Base Transceiver Stations) have been installed in last 8-9 months is a record,&amp;rdquo; Sinha noted.&lt;/p&gt;
-
-&lt;p&gt;The telecom operators had informed the government that they installed more than 1.60 lakh additional BTS or mobile sites across the country between June 15 and December 31, 2016 and another 1.1 lakh additional mobile sites were committed by March 2017.&lt;/p&gt;
-
-&lt;p&gt;As per a report of the Telecom Regulatory Authority of India, all operators have met call drop standard norms in the three months ended June and September. In October-December 2016, Trai found performance of Aircel below par for call drops in most circles. The DoT has set up an IVRS or automated call system which makes random calls to subscribers to check status of call drops.&lt;/p&gt;
-
-&lt;p&gt;Sinha said the IVRS is helping the government in identifying blind spots in areas that do not receive mobile signals or get weak ones. &amp;ldquo;The IVRS system makes an average 2600-2700 calls everyday. It is helping us in identifying those blind spots where there are regular call drops and telecom service providers are informed about it. They (telecom operators) are trying to sort it out,&amp;rdquo; Sinha added.&lt;/p&gt;
-
-&lt;p&gt;The minister emphasised that the government is boosting telecom connectivity across the country, including optical fibre rollout in village panchayats, the North-East and even in Left wing extremism-affected areas.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;We have been successful in connecting 91,000 panchayats. In coming 15-20 days, we will meet our target of connecting one lakh panchayats. There was problem of equipment. It was an indigenous technology developed by (state-owned company) C-DOT. Vendors were not available. It took a lot of time in testing,&amp;rdquo; Sinha said.&lt;/p&gt;
-
-&lt;p&gt;Now, 50 thousand such equipment have been supplied by Tejas Networks, ITI Ltd and L&amp;amp;T.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;I feel that from next week onwards (optical fibre) in as many as 300 villages per day will be lit. Thereafter, the pace will increase to 400 villages per day. Right now, it is around 100 villages,&amp;rdquo; Sinha said.&lt;/p&gt;
-</description>
+      <description>Telecom Minister Manoj Sinha today said his ministry is keeping a watchful eye on all factors of call drop measurement
+Refusing to lower his guard on the issue of call drops, Telecom Minister Manoj Sinha today said his ministry is keeping a watchful eye on all factors of call drop measurement, which leaves no room for any manipulation. &amp;ldquo;We are looking at every aspect of call drop. No trick will work in this case,&amp;rdquo; Sinha told Press Trust of India in an interview.</description>
     </item>
     
     <item>
@@ -362,26 +144,7 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/icici-axis-sbi-gain-rbi-to-get-power-to-act-against-loan-defaulters/</guid>
-      <description>&lt;p&gt;The Union Cabinet cleared an ordinance empowering the Reserve Bank of India (RBI) to act against wilful defaulters. The ordinance has been sent to the president for approval. The ordinance is aimed at empowering RBI to deal more effectively with stressed assets than earlier. A senior finance ministry official said &amp;ldquo;It is part of a broader plan to resolve bad loans with banks&amp;rsquo; issue that has been a major hurdle in the economy from achieving its full potential.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Banking sub-index on the NSE Nifty Bank index rose to its record high following this development. The index advanced as much as 2 per cent to hit record high of 22,743.70. Sub-index of the public-sector banks Nifty PSU index also rallied over 3 per cent.&lt;/p&gt;
-
-&lt;p&gt;The ordinance may enable RBI to direct banks on how to deal with stressed assets. Moving an amendment to the banking regulation act may take time as the next session of parliament starts sometime after second week of July.&lt;/p&gt;
-
-&lt;p&gt;The amended law will also empower RBI to set up oversight panels that will shield bankers from later action by probe agencies looking into loan recasts as a lot of discretion will be involved in the process.&lt;/p&gt;
-
-&lt;p&gt;By December 2016, non-performing assets (NPAs) or bad loans with Indian banks rose to Rs. 6.07 lakh crore, of which the share of Public sector banks was Rs. 5.02 lakh crore.&lt;/p&gt;
-
-&lt;p&gt;Analysts say the ordinance is a positive step towards banks recovering their dues from the defaulters.&lt;/p&gt;
-
-&lt;p&gt;Kishor Ostwal of CNI Research, says &amp;ldquo;Because of this ordinance there will be more and more recovery of bad loans and wilful defaulters which have money will come out and repay their debts.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Among the individual banking shares, ICICI Bank was the top gainer, rose 9.18 per cent to Rs 297.8.&lt;/p&gt;
-
-&lt;p&gt;Canara Bank, Bank of Baroda, State Bank of India, IDFC Bank, Punjab National Bank and Axis Bank were also among the other gainer in the banking sun-index rising between 1-3.5 per cent.&lt;/p&gt;
-
-&lt;p&gt;Among the state-run lenders, Union Bank, Andhra Bank, IDBI Bank and  Allahabad Bank also rallied up to 4 per cent each.&lt;/p&gt;
-</description>
+      <description>The Union Cabinet cleared an ordinance empowering the Reserve Bank of India (RBI) to act against wilful defaulters. The ordinance has been sent to the president for approval. The ordinance is aimed at empowering RBI to deal more effectively with stressed assets than earlier. A senior finance ministry official said &amp;ldquo;It is part of a broader plan to resolve bad loans with banks&amp;rsquo; issue that has been a major hurdle in the economy from achieving its full potential.</description>
     </item>
     
     <item>
@@ -390,16 +153,9 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/119-banks-connected-aadhaar-enabled-payment-system-minister/</guid>
-      <description>&lt;p&gt;The government on Friday said 119 banks are connected with the Aadhaar-enabled payment system and 33.87 crore transactions have taken place through Aadhaar-enabled payment systems.&lt;/p&gt;
-
-&lt;p&gt;“There are 111 crore Aadhaar enrolments done so far out of the total population of 125 crore in India. Aadhaar is becoming a powerful instrument to bridge the digital divide,” Ravi Shankar Prasad, Minister of Information Technology, said here.&lt;/p&gt;
-
-&lt;p&gt;He said ₹36,000 crore has been saved in the last two years due to the linking of Aadhaar with the public distribution system including household LPG supply and MGNREGA.&lt;/p&gt;
-
-&lt;p&gt;Prasad also said 4.47 crore bank accounts have been opened with Aadhaar eKYC as compared to only one lakh accounts opened as of May 2014.&lt;/p&gt;
-
-&lt;p&gt;He said the government has linked the BHIM app with Aadhaar so that transactions through the app happens in a transparent manner.&lt;/p&gt;
-</description>
+      <description>The government on Friday said 119 banks are connected with the Aadhaar-enabled payment system and 33.87 crore transactions have taken place through Aadhaar-enabled payment systems.
+“There are 111 crore Aadhaar enrolments done so far out of the total population of 125 crore in India. Aadhaar is becoming a powerful instrument to bridge the digital divide,” Ravi Shankar Prasad, Minister of Information Technology, said here.
+He said ₹36,000 crore has been saved in the last two years due to the linking of Aadhaar with the public distribution system including household LPG supply and MGNREGA.</description>
     </item>
     
     <item>
@@ -408,26 +164,276 @@ Moneycontrol News&lt;/p&gt;
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://aadhaarcardnews.in/gst-to-lower-tax-burden-on-medical-devices-smartphones/</guid>
-      <description>&lt;p&gt;The Goods and Services Tax (GST) will lead to lower tax burden in several commodities, including packaged cement, medicaments, smartphones and medical devices, the Finance Ministry said on Tuesday.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Packaged cement attracts central excise duty of 12.5 per cent plus Rs 125 PMT (per metric tonne) and standard VAT (value-added tax) rate of 14.5 per cent. At these rates, the present total tax incidence works out to more than 29 per cent.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;If we include tax incidence on account of central sales tax (CST), octroi, entry tax, etc., the present total tax incidence would work out to more than 31 per cent. As against this, the proposed GST rate for cement is 28 per cent,&amp;rdquo; the ministry said here in a statement.&lt;/p&gt;
-
-&lt;p&gt;There will be lesser tax burden in case of medicaments, including Ayurvedic, Unani, Siddha, Homeopathic or Bio-chemic systems also.&lt;/p&gt;
-
-&lt;p&gt;Medicaments, in general, attract six per cent central excise duty and five per cent VAT. Further, CST, octroi, entry tax, etc. are also applicable in general. At these rates, the present total tax incidence works out to more than 13 per cent.&lt;/p&gt;
-
-&lt;p&gt;As against this, the proposed GST rate on medicines, including ayurvedic medicines, is 12 per cent.&lt;/p&gt;
-
-&lt;p&gt;Smartphone attracts two per cent central excise duty (one per cent excise duty + one per cent NCCD (national contingency and calamity duty). VAT rates vary from state to state from five to 15 per cent.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Weighted average VAT rate on smartphones works out to about 12 per cent. Thus, the present total tax incidence on smart phones works out to more than 13.5 per cent. As against this, the proposed GST rate for smartphones is 12 per cent,&amp;rdquo; the statement said.&lt;/p&gt;
-
-&lt;p&gt;Similarly, medical devices, including surgical instruments, in general attract six per cent central excise duty and five per cent VAT. Along with CST, octroi, entry tax, etc., the present total tax incidence on them works out to more than 13 per cent. As against this, the proposed rate under GST is 12 per cent, it said.&lt;/p&gt;
-
-&lt;p&gt;Worship materials including that required for &amp;lsquo;havan&amp;rsquo; will be under the nil category. However, exact formulation for the same is yet to be finalised.&lt;/p&gt;
-</description>
+      <description>The Goods and Services Tax (GST) will lead to lower tax burden in several commodities, including packaged cement, medicaments, smartphones and medical devices, the Finance Ministry said on Tuesday.
+&amp;ldquo;Packaged cement attracts central excise duty of 12.5 per cent plus Rs 125 PMT (per metric tonne) and standard VAT (value-added tax) rate of 14.5 per cent. At these rates, the present total tax incidence works out to more than 29 per cent.</description>
+    </item>
+    
+    <item>
+      <title>GST To Smoothen Taxation, Bring In Transparency: Experts</title>
+      <link>http://aadhaarcardnews.in/gst-to-smoothen-taxation-bring-in-transparency/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/gst-to-smoothen-taxation-bring-in-transparency/</guid>
+      <description>At an interactive awareness programme for start-ups, the experts said the government is expected to resolve the queries of entrepreneurs regarding GST.
+GST will not only ease the process of taxation, but bring in transparency, say experts.
+At an interactive awareness programme for start-ups here, the experts said the government is expected to resolve the queries of entrepreneurs regarding GST.
+&amp;ldquo;GST will not only ease the process, but also bring transparency as all the invoices needed to be uploaded by sellers are visible to the buyer every month,&amp;rdquo; said Manish Ojha, Development Head of KDK Softwares Pvt.</description>
+    </item>
+    
+    <item>
+      <title>India&#39;s Plan Of Affordable Housing For All By 2022</title>
+      <link>http://aadhaarcardnews.in/how-gst-real-estate-act-will-boost-housing/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/how-gst-real-estate-act-will-boost-housing/</guid>
+      <description>The government has backed its Housing for All by 2022 promise with a slew of reforms for buyers and developers alike.
+The Indian real estate sector has seen a resurgence of interest in 2017 after a slowdown over the past 2-3 years, buoyed by the affordable housing segment, which includes residential units below Rs 50 lakh. Legislations the like Real Estate (Regulation and Development) Act, 2016, (RERA) and Goods and Services Tax (GST) have signalled that the government is ready to walk the talk for its &amp;lsquo;Housing for All&amp;rsquo; by 2022 promise and many developers and institutional players have flocked to the affordable housing market, a report by Colliers International India, the Indian wing of a global commercial real estate company said.</description>
+    </item>
+    
+    <item>
+      <title>Modi government is firming up a plan to create India&#39;s own Harvard</title>
+      <link>http://aadhaarcardnews.in/hrd-ministry-seeks-cabinet-nod-for-20-world-class-institutions/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/hrd-ministry-seeks-cabinet-nod-for-20-world-class-institutions/</guid>
+      <description>India has taken a firm step towards building 20 world-class educational institutions, which will be termed Institutions of Eminence, with the human resource development ministry moving the proposal to the Union Cabinet for approval. Firmly bearing the stamp of the Prime Minister’s Office, this is a new framework to catapult Indian institutions to global recognition by freeing the best of them from the University Grants Commission’s restrictive regulatory regime and ushering in an unprecedented level of institutional autonomy.</description>
+    </item>
+    
+    <item>
+      <title>&#39;Pay Arrears Immediately&#39;: Income Tax Department Names Five Defaulters</title>
+      <link>http://aadhaarcardnews.in/pay-arrears-immediately-income-tax-department-names/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/pay-arrears-immediately-income-tax-department-names/</guid>
+      <description>The taxman has begun this exercise of naming and shaming tax defaulters for the last few years and had named at least 96 such entities which have huge tax liabilities on them and have either gone non-traceable or have shown no assets for recovery.
+The Income Tax Department on Thursday published names of five entities owing over Rs 10 crore in taxes, as part of its strategy to name and shame big defaulters.</description>
+    </item>
+    
+    <item>
+      <title>How To Check If Your Employer Has Deposited Your Income Tax</title>
+      <link>http://aadhaarcardnews.in/26as-how-to-check-your-income-tax-credit/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/26as-how-to-check-your-income-tax-credit/</guid>
+      <description>In case there is a mismatch in TDS figures in Form 16 and Form 26AS, one should approach his/her employer or respective entity.
+The tax return filing season has started from April 1. Usually, for many salaried employees, the first thing that comes to mind is Form 16 that is issued by employers. But another document - Form 26AS - is also a crucial document that a salaried individual should access before filing tax returns.</description>
+    </item>
+    
+    <item>
+      <title>Aadhaar essential for getting fellowships, scholarships from UGC, AICTE</title>
+      <link>http://aadhaarcardnews.in/aadhaar-essential-getting-fellowships-scholarships-ugc-aicte/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/aadhaar-essential-getting-fellowships-scholarships-ugc-aicte/</guid>
+      <description>According to an order issued by the Human Resource Development (HRD) ministry on Wednesday, students seeking government scholarships and fellowships will need to declare Aadhaar numbers by the end of June, putting yet another of its benefits programme behind the Unique Identity project wall.
+The order covers fellowship schemes implemented by the University Grants Commission and the All India Council for Technical Education.
+“The use of Aadhaar as identity document for delivery of services or benefits or subsidies simplifies the government delivery processes, brings in transparency and efficiency, and enables beneficiaries to get their entitlements directly in a convenient and seamless manner and Aadhaar obviates the need for producing multiple documents to prove one’s identity,” the government stated in its notification.</description>
+    </item>
+    
+    <item>
+      <title>NITI&#39;s vision: Houses, vehicles, ACs for all by 2032</title>
+      <link>http://aadhaarcardnews.in/nitis-vision-houses-vehicles-acs-for-all-by/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/nitis-vision-houses-vehicles-acs-for-all-by/</guid>
+      <description>Government think tank NITI Aayog has envisaged a new India in which all citizens in 15 years will have houses with toilets, two-wheelers or cars, power, air conditioners and digital connectivity.
+This is a glimpse of Vision 2031-32 presented by the NITI Aayog Vice-Chairman Arvind Panagariya to the body&amp;rsquo;s Governing Council, chaired by Prime Minister Narendra Modi, at a meeting held yesterday in the presence of chief ministers.
+The India 2031-32: Vision, Strategy and Action Agenda also visualises a fully literate society with universal access to health care.</description>
+    </item>
+    
+    <item>
+      <title>PF Withdrawal Easier For Education, Hospital Bills: 10 Facts</title>
+      <link>http://aadhaarcardnews.in/no-documents-just-self-declaration-for-provident-fund/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/no-documents-just-self-declaration-for-provident-fund/</guid>
+      <description>EFPO subscribers can seek withdrawal from their employee provident fund (EPF) account on various grounds by using a composite form along with a self-declaration.
+EPFO or Employees&amp;rsquo; Provident Fund Organisation has made partial withdrawal easier from provident fund for medical and other purposes like purchase of house, education and marriage of children. The subscriber is no longer required to submit various certificates or documents. EFPO subscribers can seek withdrawal from their employee provident fund (EPF) account on various grounds by using a composite form along with a self-declaration.</description>
+    </item>
+    
+    <item>
+      <title>how your petrol pump might be cheating you right in front of your eyes</title>
+      <link>http://aadhaarcardnews.in/how-your-petrol-pump-might-be-cheating-you-in-front/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/how-your-petrol-pump-might-be-cheating-you-in-front/</guid>
+      <description>A series of raids by Uttar Pradesh Special Task Force (STF) in Lucknow yesterday have revealed how petrol pumps are cheating consumers.
+Most consumers only check the display of the fuel dispensing machine for the amount and the quantity of the fuel filled but the raids show that the pumps were using a remote-controlled electronic chip to dupe consumers.
+This is how petrol pumps are cheating you:
+ Petrol pumps install a chip inside the fuel dispensing machine, which is designed to reduce the fuel output by nearly five to ten per cent.</description>
+    </item>
+    
+    <item>
+      <title>Aadhaar Card Mandatory For Subsidy: Indian Government</title>
+      <link>http://aadhaarcardnews.in/aadhaar-card-mandatory-subsidy-indian-government/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/aadhaar-card-mandatory-subsidy-indian-government/</guid>
+      <description>In a bid to curb corruption in the Public Distribution System (PDS), the Indian government had made the Aadhar Card mandatory for availing foodgrain subsidy at PDS.
+The government has already made Aadhar Card mandatory for the cooking gas LPG subsidy.
+The government has declared Rs 1.4 lakh crore subsidy under the food security law.
+A timeline till June 30 is given for the common people who avail subsidy to apply for Aadhar Card, the government categorically stated in the notification in this regard that no subsidised foodgrains with Aadhaar after June 30.</description>
+    </item>
+    
+    <item>
+      <title>No Proposal To Withdraw New 2,000 Rupee Notes: Arun Jaitley</title>
+      <link>http://aadhaarcardnews.in/no-proposal-to-withdraw-new-2-000-rupee-notes-arun-jaitley/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/no-proposal-to-withdraw-new-2-000-rupee-notes-arun-jaitley/</guid>
+      <description>The Rs 2,000 banknotes were introduced along with new Rs 500 currency following the withdrawal of old Rs 500 and Rs 1,000 notes from November 9, 2016.
+Finance Minister Arun Jaitley on Friday said there is no proposal to withdraw the Rs 2,000 notes that were introduced post demonetisation.
+The Rs 2,000 banknotes were introduced along with new Rs 500 currency following the withdrawal of old Rs 500 and Rs 1,000 notes from November 9, 2016.</description>
+    </item>
+    
+    <item>
+      <title>How BSNL Is Planning To Counter Reliance Jio, Airtel, Others</title>
+      <link>http://aadhaarcardnews.in/how-bsnl-is-planning-to-counter-reliance-jio-airtel-others/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/how-bsnl-is-planning-to-counter-reliance-jio-airtel-others/</guid>
+      <description>&amp;ldquo;The benefits customer will get under the Combo STV (special tariff voucher) of Rs 339 are unlimited calls in BSNL network and unlimited data with fair use policy of 2 GB per day with validity of 28 days,&amp;rdquo; BSNL said.
+HIGHLIGHTS  BSNL&amp;rsquo;s new plan gives 2GB of 3G data per day at Rs 339
+ It will also provide 25 minutes of free calls per day to other networks</description>
+    </item>
+    
+    <item>
+      <title>Idea To Sell 1GB 2G, 3G, 4G Mobile Data At Same Price From March End</title>
+      <link>http://aadhaarcardnews.in/idea-to-sell-1gb-2g-3g-4g-mobile-data-at-same-price-from-march/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/idea-to-sell-1gb-2g-3g-4g-mobile-data-at-same-price-from-march/</guid>
+      <description>Idea sells 1GB of 2G service with about a month validity for around Rs 170 and 4G is priced around Rs 123.
+HIGHLIGHTS  At present, Idea mobile internet plans are priced at different rates
+ The decision in the wake of stiff competition in the market
+ Idea sells 1GB of 2G service with a month validity for Rs 170
+  Telecom operator Idea Cellular will start selling 1GB and above mobile data plans across its 2G, 3G and 4G network at same price by the end of this month.</description>
+    </item>
+    
+    <item>
+      <title>Plastic Rs 10 Note Could Be A Reality Soon</title>
+      <link>http://aadhaarcardnews.in/plastic-rs10-note-could-be-a-reality-soon/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/plastic-rs10-note-could-be-a-reality-soon/</guid>
+      <description>The Reserve Bank of India (RBI) has been authorised to conduct field trials for printing plastic Rs 10 denomination notes.
+The Reserve Bank of India (RBI) has been authorised to conduct field trials for printing plastic Rs 10 denomination notes which will have a longer life span, Parliament was informed on Friday.
+&amp;ldquo;Approval for procurement of plastic substrate and printing of bank notes of Rs 10 denomination on plastic banknote substrates has been conveyed to the RBI,&amp;rdquo; Minister of State for Finance Arjun Ram Meghwal told the Lok Sabha in a written reply.</description>
+    </item>
+    
+    <item>
+      <title>जल्द मिलेगा होम लोन कवर के साथ कम रेट का फायदा!</title>
+      <link>http://aadhaarcardnews.in/profit-of-low-rate-with-home-loan-cover-home-loan-to-be-available-soon/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/profit-of-low-rate-with-home-loan-cover-home-loan-to-be-available-soon/</guid>
+      <description>हाउजिंग फाइनैंस कंपनियों का रेग्युलेटर नैशनल हाउजिंग बैंक (NHB) इंश्योरेंस इंस्टीट्यूट ऑफ इंडिया के साथ मिलकर एक ऐसा व्यापक फ्रेमवर्क बनाने पर काम कर रहा है, जिसमें होम लोन का रेट आधा पर्सेंटेज पॉइंट तक घटेगा, बशर्ते लोन लेने वाले इंश्योरेंस कवर लें। मामले की जानकारी रखने वाले सूत्रों ने बताया कि इसका मकसद डिफॉल्ट रिस्क घटाना भी है।
+NHB के नैशनल डायरेक्टर और चीफ एग्जिक्युटिव ऑफिसर श्रीराम कल्याणरमन ने ईटी से बातचीत में इस खबर को सही बताया। उन्होंने कहा, &amp;lsquo;हम आपदा (संपत्ति) बीमा की संभावनाओं का पता लगाने के लिए इंश्योरेंस इंस्टीट्यूट ऑफ इंडिया के साथ मिलकर एक सर्वे कर रहे हैं। हम यह पता लगा रहे हैं कि क्या होम लोन लेते वक्त इंश्योरेंस कवर भी लेने पर कम लेंडिंग रेट ऑफर किया जा सकता है?</description>
+    </item>
+    
+    <item>
+      <title>Funds Transferred From Provident Fund To NPS Not Taxable: Regulator</title>
+      <link>http://aadhaarcardnews.in/funds-transferred-from-provident-fund-to-nps-not-taxable-regulator/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/funds-transferred-from-provident-fund-to-nps-not-taxable-regulator/</guid>
+      <description>The transferred recognised provident fund or superannuation fund will not be treated as contribution of the current year by employee/employer and the subscriber would not be required to claim tax deduction.
+The Pension Fund Regulatory and Development Authority (PFRDA) on Tuesday said funds transferred from a provident fund account to a National Pension System (NPS) account will not attract any tax.
+&amp;ldquo;The amount so transferred from recognised Provident Fund/Superannuation Fund to NPS is not treated as income of the current year and hence not taxable,&amp;rdquo; it said while specifying procedure for effecting transfers.</description>
+    </item>
+    
+    <item>
+      <title>SBI&#39;s Move To Impose Minimum Balance Penalty Faces Government Hurdle</title>
+      <link>http://aadhaarcardnews.in/sbis-move-to-impose-minimum-balance-penalty-faces-government-hurdle/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/sbis-move-to-impose-minimum-balance-penalty-faces-government-hurdle/</guid>
+      <description>India&amp;rsquo;s biggest public sector bank, State Bank of India (SBI), announced that come April its savings bank account customers will have to maintain a higher monthly average balance.
+India&amp;rsquo;s biggest public sector bank, State Bank of India (SBI), announced that come April its savings bank account customers will have to maintain a higher monthly average balance, a move which is seen as hitting 31 crore depositors. Otherwise the account holders of the SBI will have to pay a penalty.</description>
+    </item>
+    
+    <item>
+      <title>28 GB Data For Rs 345: Airtel&#39;s Latest Offer To Counter Jio</title>
+      <link>http://aadhaarcardnews.in/28-gb-data-for-rs-345-airtels-latest-offer-to-counter-jio/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/28-gb-data-for-rs-345-airtels-latest-offer-to-counter-jio/</guid>
+      <description>Airtel&amp;rsquo;s Rs 345 offer offers comes days after billionaire investor Mukesh Ambani-controlled Reliance Jio announced a new &amp;lsquo;Prime&amp;rsquo; membership offer.
+The tariff battle in the Indian telecom sector has further intensified with Bharti Airtel launching an aggressive mobile data plan to counter Reliance Jio. Market leader Bharti Airtel has announced a plan for select customers wherein its subscribers will be offered 28 GBs of data along with free
+local and STD calls for a period of 28 days under a pack priced at Rs 345.</description>
+    </item>
+    
+    <item>
+      <title>Apple iPhone 6 32GB Variant Offered At Discount On Amazon India</title>
+      <link>http://aadhaarcardnews.in/apple-iphone-6-32gb-variant-offered-at-discount-on-amazon-india/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/apple-iphone-6-32gb-variant-offered-at-discount-on-amazon-india/</guid>
+      <description>Amazon India is also offering exchange option for purchase of the iPhone 6 32GB smartphone in Space Grey colour at select locations, as per its website.
+ The Apple iPhone 6 32GB variant in Space Grey option is being sold for Rs 28,999, instead of Rs 30,700, under a limited period scheme on Amazon India&amp;rsquo;s website. The iPhone 6 32GB variant scheme is open till March 7, 2017, Amazon India said.</description>
+    </item>
+    
+    <item>
+      <title>Jio Average Download Speed Doubles In January, Says Telecom Regulator</title>
+      <link>http://aadhaarcardnews.in/jio-average-download-speed-doubles-in-january-says-telecom/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/jio-average-download-speed-doubles-in-january-says-telecom/</guid>
+      <description>TRAI collects and computes speed of mobile data from subscribers across the country with the help of the MySpeed application on a real time basis.
+Average peak download speed on Reliance Jio&amp;rsquo;s network more than doubled to 17.42 megabit per second at the end of January, according to data by the Telecom Regulatory Authority of India (TRAI).
+The monthly average mobile broadband speed published by the telecom regulator showed that the download speed on Jio network reached 17.</description>
+    </item>
+    
+    <item>
+      <title>SBI Asked To Reconsider Penalty For Not Keeping Minimum Balance: Report</title>
+      <link>http://aadhaarcardnews.in/sbi-asked-to-reconsider-penalty-for-not-keeping-minimum-balance/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/sbi-asked-to-reconsider-penalty-for-not-keeping-minimum-balance/</guid>
+      <description>State Bank of India, according to a source, has also been asked to reconsider charges it proposes to levy on cash transactions and ATM withdrawals over specified limits.
+The government on Monday asked State Bank of India, the country&amp;rsquo;s largest lender, to reconsider its decision to levy penalty on non-maintenance of minimum balance, which the bank plans to hike manifold from April 1 impacting over 31 crore savings bank account holders.</description>
+    </item>
+    
+    <item>
+      <title>All banks must enable mobile banking by March 31: Government</title>
+      <link>http://aadhaarcardnews.in/all-banks-must-enable-mobile-banking-by-march-31-government/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/all-banks-must-enable-mobile-banking-by-march-31-government/</guid>
+      <description>The government on Friday said it has asked banks to provide mobile banking facility to all customers by the end of the current fiscal on March 31.
+In a move to promote digital transactions post-demonetisation, the government on Friday said it has asked banks to provide mobile banking facility to all customers by the end of the current fiscal on March 31. “Ministry issues advisory to banks to enable mobile seeding, Aadhaar seeding of bank</description>
+    </item>
+    
+    <item>
+      <title>SBI Announces Penalty For Not Keeping Minimum Balance In Accounts </title>
+      <link>http://aadhaarcardnews.in/sbi-announces-penalty-for-non-maintenance-of-minimum-balance/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/sbi-announces-penalty-for-non-maintenance-of-minimum-balance/</guid>
+      <description>Making maintenance of Rs 5,000 mandatory for accounts in metropolitan areas, Rs 3,000 in urban areas, Rs 2,000 in semi-urban areas and Rs 1,000 in rural areas, the SBI listed out the charges to be effective from April 1.
+Making it compulsory for account-holders to maintain a minimum balance, the State Bank of India (SBI) on Thursday said it will be charging defaulters a penalty from April 1 onwards.
+Making maintenance of Rs 5,000 mandatory for accounts in metropolitan areas, Rs 3,000 in urban areas, Rs 2,000 in semi-urban areas and Rs 1,000 in rural areas, the SBI listed out the charges to be effective from April 1.</description>
+    </item>
+    
+    <item>
+      <title>India Takes Issue Of Defaulters Very Seriously: Arun Jaitley</title>
+      <link>http://aadhaarcardnews.in/india-takes-issue-of-defaulters-very-seriously-arun-jaitley/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/india-takes-issue-of-defaulters-very-seriously-arun-jaitley/</guid>
+      <description>The Union Minister for Finance and Corporate Affairs is set to meet UK Foreign Secretary Boris Johnson later today, when the issue may come up.
+Finance Minister Arun Jaitley on Monday said the Indian government takes the issue of defaulters very seriously and indicated that he may raise the issue of defaulters based in Britain with the UK government, in an apparent reference to liquor baron Vijay Mallya.
+&amp;ldquo;Certainly, when the opportunity does come, I do take that opportunity to mention it (issue of defaulters based in Britain) to my counterparts here,&amp;rdquo; he told reporters here when asked if the issue of defaulters based in the UK will feature on the agenda of his discussions with British ministers.</description>
+    </item>
+    
+    <item>
+      <title>Senior Citizen Savings Scheme: 10 Things You Should Know Before Investing</title>
+      <link>http://aadhaarcardnews.in/senior-citizen-savings-scheme-10-things-you-should-know-before-investing/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://aadhaarcardnews.in/senior-citizen-savings-scheme-10-things-you-should-know-before-investing/</guid>
+      <description>Due to the benefits offered under the Senior Citizen Savings Scheme like higher returns, less risk factor and tax savings option, it is becoming a popular choice among the retirees.
+To invest wisely is the main responsibility after retirement. Choosing an investment plan which offers fair returns and security is very important. The Senior Citizen Savings Scheme (SCSS) under the Post Office Savings Schemes is preferably the most effective way for that.</description>
     </item>
     
   </channel>
