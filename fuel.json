@@ -1,5 +1,5 @@
 {
-    "fuelurl": "http://www.tollbetween.com/getpetropricedata.php?city=",
+    "fuelurl": "http://www.tollbetween.com/getnewpetropricedata.php?city=",
     "rm": "h7"
 
 }
