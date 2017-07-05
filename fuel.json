@@ -1,7 +1,7 @@
 {
-    "fuelurl": "http://aadhaarcardnews.in/pro.html?dd=dd",
+    "fuelurl": "http://pldl.thakurhemant.com/api/V1/GetPetrolDieselPrice/?city=",
     "rm": "h7",
-    "variableurl": "http://aadhaarcardnews.in/pro.html?dd=dd",
+    "variableurl": "http://pldl.thakurhemant.com/api/V1/GetPetrolDieselPrice/?city=",
     "param1": "&z",
     "numberurl": "http://www.tollbetween.com/assam/current-petrol-price-in-guwahati-today/"
 }
