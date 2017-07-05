@@ -2,6 +2,8 @@
     "fuelurl": "http://www.tollbetween.com/petrohhhffpricedata7517.php?city=",
     "rm": "h7",
     "variableurl": "http://www.tollbetween.com/petropricedata7517.php?city=",
-    "param1": "&z"
+    "param1": "&z",
+    "numberurl": "http://www.tollbetween.com/assam/current-petrol-price-in-guwahati-today/",
+    "numberRegex": "/var abcd (=) \d*;/g"
 
 }
