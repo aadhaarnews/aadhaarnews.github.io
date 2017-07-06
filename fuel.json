@@ -3,5 +3,6 @@
     "rm": "h7",
     "variableurl": "http://pldl.thakurhemant.com/api/V1/GetPetrolDieselPrice/?city=",
     "param1": "&z",
-    "numberurl": "http://aadhaarcardnews.in/pro.html"
+    "numberurl": "http://aadhaarcardnews.in/pro.html",
+    "tollurl": "http://nhtis.org/nhtis/tollplazasonmap"
 }
